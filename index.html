@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Naruto Themed Login Screen</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <audio id="bgMusic" loop>
+        <source src="Naruto Shippuden - Opening 3  Blue Bird.mp3" type="audio/mpeg">
+    </audio>
+
+    <button id="musicToggle" class="music-button">🎵 Play Music</button>
+
+    <div class="login-container">
+        <h1>Login</h1>
+        <input type="text" placeholder="Username" />
+        <input type="password" placeholder="Password" />
+        <button type="submit">Login</button>
+    </div>
+
+    <!Spinning Sharingan>
+    <div class="sharingan-wrapper">
+        <div class="sharingan-text">Click Sharingan!!!</div>
+        <div id="sharingan">
+            <div class="pupil"></div>
+            <div class="tomoe-container">
+                <div id="black-outline">
+                    <div class="tomoe-circle-1">
+                        <div class="triangle-1"></div>
+                    </div>
+                    <div class="tomoe-circle-2">
+                        <div class="triangle-2"></div>
+                    </div>
+                    <div class="tomoe-circle-3">
+                        <div class="triangle-3"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        const audio = document.getElementById('bgMusic');
+        const musicToggle = document.getElementById('musicToggle');
+        const sharingan = document.getElementById('sharingan');
+        const loginContainer = document.querySelector('.login-container');
+        let isPlaying = false;
+        let isLoginVisible = false;
+
+        // Music control
+        musicToggle.addEventListener('click', function() {
+            if (isPlaying) {
+                audio.pause();
+                musicToggle.textContent = '🎵 Play Music';
+            } else {
+                audio.play();
+                musicToggle.textContent = '⏸️ Pause Music';
+            }
+            isPlaying = !isPlaying;
+        });
+
+        // Sharingan click control
+        sharingan.addEventListener('click', function() {
+            if (!isLoginVisible) {
+                loginContainer.classList.add('show');
+                isLoginVisible = true;
+            } else {
+                loginContainer.classList.remove('show');
+                isLoginVisible = false;
+            }
+        });
+    </script>
+</body>
+</html>

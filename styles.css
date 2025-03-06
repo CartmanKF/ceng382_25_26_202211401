@@ -1,0 +1,259 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-image: url('background.jpg');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    color: #fff;
+}
+
+.login-container {
+    background: rgba(255, 255, 255, 0.8);
+    border-radius: 8px;
+    padding: 40px;
+    width: 300px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    position: relative;
+    text-align: center;
+    opacity: 0;
+    transform: scale(0) rotate(-180deg);
+    transition: all 0.5s ease;
+    pointer-events: none;
+}
+
+.login-container.show {
+    opacity: 1;
+    transform: scale(1) rotate(0deg);
+    pointer-events: all;
+}
+
+.login-container h1 {
+    color: firebrick;
+    font-size: 24px;
+    margin-bottom: 30px;
+}
+
+input {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border: 2px solid #e5e5e5;
+    border-radius: 4px;
+    font-size: 16px;
+}
+
+button {
+    width: 100%;
+    padding: 12px;
+    background-color: firebrick;
+    border: none;
+    color: white;
+    font-size: 16px;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+button:hover {
+    background-color: #d32f2f;
+}
+
+/* Sharingan wrapper */
+.sharingan-wrapper {
+    position: fixed;
+    top: 5%;
+    left: 50%;
+    transform: translateX(-50%);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    z-index: 100;
+}
+
+/* Dönen Sharingan */
+#sharingan {
+    background-color: firebrick;
+    border-radius: 50%;
+    border: solid black;
+    height: 200px;
+    width: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    animation: sharingans 5s linear infinite;
+    cursor: pointer;
+    transition: transform 0.3s ease;
+}
+
+#sharingan:hover {
+    transform: scale(1.1);
+}
+
+/* Tomoe container */
+.tomoe-container {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    animation: sharingans 5s linear infinite;
+}
+
+/* Sharingan'ın dış çerçevesi */
+#black-outline {
+    margin-top: 14%;
+    margin-left: 14%;
+    position: absolute;
+    width: 70%;
+    height: 70%;
+    border: solid black;
+    border-radius: 50%;
+}
+
+/* Tomoe 1 */
+.tomoe-circle-1 {
+    position: absolute;
+    margin-top: 15%;
+    height: 20px;
+    width: 20px;
+    background-color: black;
+    border-radius: 50%;
+    transform: rotate(-30deg);
+}
+
+.triangle-1 {
+    height: 18px;
+    width: 10px;
+    background-color: black;
+    position: relative;
+    top: -9px;
+    left: 4px;
+    border-radius: 0% 145% 0% 90%;
+    transform: rotateZ(60deg) skewY(30deg);
+}
+
+/* Tomoe 2 */
+.tomoe-circle-2 {
+    position: absolute;
+    margin-top: 25%;  
+    right: -3%;
+    height: 20px;
+    width: 20px;
+    background-color: black;
+    border-radius: 50%;
+    transform: rotate(60deg);
+}
+
+.triangle-2 {
+    height: 18px;
+    width: 10px;
+    background-color: black;
+    position: relative;
+    top: -9px;
+    left: 4px;
+    border-radius: 0% 145% 0% 90%;
+    transform: rotateZ(60deg) skewY(30deg);
+}
+
+/* Tomoe 3 */
+.tomoe-circle-3 {
+    position: absolute;
+    margin-top: 90%;  
+    right: 45%;
+    height: 20px;
+    width: 20px;
+    background-color: black;
+    border-radius: 50%;
+    transform: rotate(160deg);
+}
+
+.triangle-3 {
+    height: 18px;
+    width: 10px;
+    background-color: black;
+    position: relative;
+    top: -9px;
+    left: 4px;
+    border-radius: 0% 145% 0% 90%;
+    transform: rotateZ(60deg) skewY(30deg);
+}
+
+/* Göz bebeği */
+.pupil {
+    background-color: black;
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    box-shadow: 0px 0px 70px black;
+    z-index: 1;
+    animation: none; /* Pupil'ın dönmesini engelle */
+}
+
+/*keyframe animasyonu */
+@keyframes sharingans {  
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+}
+
+/* Müzik kontrolü */
+#bgMusic {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    z-index: 1000;
+    opacity: 0.5;
+    transition: opacity 0.3s;
+}
+
+#bgMusic:hover {
+    opacity: 1;
+}
+
+/* Müzik kontrol butonu */
+.music-button {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    padding: 10px 20px;
+    background-color: #ffb61e;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+    z-index: 1000;
+    transition: all 0.3s ease;
+}
+
+.music-button:hover {
+    background-color: #f4a300;
+    transform: scale(1.05);
+}
+
+/* Sharingan text */
+.sharingan-text {
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    white-space: nowrap;
+    margin-bottom: 20px;
+    animation: pulse 2s infinite;
+}
+
+.sharingan-wrapper:hover .sharingan-text {
+    transform: scale(1.1);
+}
+
+@keyframes pulse {
+    0% { opacity: 0.5; }
+    50% { opacity: 1; }
+    100% { opacity: 0.5; }
+}
