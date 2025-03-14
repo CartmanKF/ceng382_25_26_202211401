@@ -257,3 +257,14 @@ button:hover {
     50% { opacity: 1; }
     100% { opacity: 0.5; }
 }
+
+.clock {
+    position: fixed;
+    top: 20px;
+    right: 20px;
+    color: firebrick;
+    font-size: 24px;
+    font-weight: bold;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+    z-index: 1000;
+}

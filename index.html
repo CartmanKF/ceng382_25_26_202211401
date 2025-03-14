@@ -13,11 +13,15 @@
 
     <button id="musicToggle" class="music-button">🎵 Play Music</button>
 
+    <div id="clock" class="clock"></div>
+
     <div class="login-container">
         <h1>Login</h1>
-        <input type="text" placeholder="Username" />
-        <input type="password" placeholder="Password" />
-        <button type="submit">Login</button>
+        <form id="loginForm">
+            <input type="text" placeholder="Username" id="username" />
+            <input type="password" placeholder="Password" id="password" />
+            <button type="submit">Login</button>
+        </form>
     </div>
 
     <!Spinning Sharingan>
@@ -42,12 +46,56 @@
     </div>
 
     <script>
+        // Music control
         const audio = document.getElementById('bgMusic');
         const musicToggle = document.getElementById('musicToggle');
         const sharingan = document.getElementById('sharingan');
         const loginContainer = document.querySelector('.login-container');
         let isPlaying = false;
         let isLoginVisible = false;
+
+        // Login array to store credentials
+        let loginAttempts = [];
+
+        // Login form handling
+        document.getElementById('loginForm').addEventListener('submit', function(e) {
+            e.preventDefault();
+            const username = document.getElementById('username').value;
+            const password = document.getElementById('password').value;
+            
+            // Store login attempt in array
+            loginAttempts.push({ username, password });
+            
+            // Log all attempts to console
+            console.log('All Login Attempts:', loginAttempts);
+            
+            // Clear form
+            this.reset();
+        });
+
+        // Live Clock
+        function updateClock() {
+            const now = new Date();
+            const timeString = now.toLocaleTimeString();
+            document.getElementById('clock').textContent = timeString;
+        }
+        
+        // Update clock every second
+        updateClock();
+        setInterval(updateClock, 1000);
+
+        // Toggle forms with 'H' key
+        let formsVisible = true;
+        document.addEventListener('keydown', function(e) {
+            if (e.key.toLowerCase() === 'h') {
+                const forms = document.getElementsByTagName('form');
+                formsVisible = !formsVisible;
+                
+                for (let form of forms) {
+                    form.style.display = formsVisible ? 'block' : 'none';
+                }
+            }
+        });
 
         // Music control
         musicToggle.addEventListener('click', function() {
