@@ -268,3 +268,11 @@ button:hover {
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
     z-index: 1000;
 }
+
+.error-message {
+    color: #ff0000;
+    margin-top: 10px;
+    display: none;
+    font-size: 14px;
+    text-align: center;
+}

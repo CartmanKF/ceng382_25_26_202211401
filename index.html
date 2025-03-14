@@ -21,6 +21,7 @@
             <input type="text" placeholder="Username" id="username" />
             <input type="password" placeholder="Password" id="password" />
             <button type="submit">Login</button>
+            <div id="errorMessage" class="error-message"></div>
         </form>
     </div>
 
@@ -62,15 +63,25 @@
             e.preventDefault();
             const username = document.getElementById('username').value;
             const password = document.getElementById('password').value;
+            const errorMessage = document.getElementById('errorMessage');
             
             // Store login attempt in array
             loginAttempts.push({ username, password });
             
             // Log all attempts to console
             console.log('All Login Attempts:', loginAttempts);
-            
-            // Clear form
-            this.reset();
+
+            // Check credentials
+            if (username === 'admin' && password === 'admin') {
+                // Redirect to table.html
+                window.location.href = 'table.html';
+            } else {
+                // Show error message
+                errorMessage.textContent = 'Invalid username or password';
+                errorMessage.style.display = 'block';
+                // Clear form
+                this.reset();
+            }
         });
 
         // Live Clock

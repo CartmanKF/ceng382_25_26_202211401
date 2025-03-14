@@ -1,0 +1,267 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Class Information Table</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background-image: url('background.jpg');
+            background-size: cover;
+            background-position: center;
+            background-attachment: fixed;
+            margin: 0;
+            padding: 20px;
+            color: #fff;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            background: rgba(255, 255, 255, 0.9);
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+        }
+
+        h1 {
+            color: firebrick;
+            text-align: center;
+            margin-bottom: 30px;
+        }
+
+        .form-group {
+            margin-bottom: 15px;
+        }
+
+        label {
+            display: block;
+            margin-bottom: 5px;
+            color: #333;
+            font-weight: bold;
+        }
+
+        input[type="text"],
+        input[type="number"],
+        textarea {
+            width: 100%;
+            padding: 8px;
+            border: 2px solid #ddd;
+            border-radius: 4px;
+            font-size: 16px;
+            transition: border-color 0.3s;
+        }
+
+        input[type="text"]:focus,
+        input[type="number"]:focus,
+        textarea:focus {
+            border-color: firebrick;
+            outline: none;
+            box-shadow: 0 0 5px rgba(178, 34, 34, 0.3);
+        }
+
+        button {
+            background-color: firebrick;
+            color: white;
+            padding: 10px 20px;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            font-size: 16px;
+            transition: background-color 0.3s;
+        }
+
+        button:hover {
+            background-color: #d32f2f;
+        }
+
+        table {
+            width: 100%;
+            margin-top: 30px;
+            border-collapse: collapse;
+            background: white;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        th, td {
+            padding: 12px;
+            text-align: left;
+            border-bottom: 1px solid #ddd;
+            color: #333;
+        }
+
+        th {
+            background-color: firebrick;
+            color: white;
+        }
+
+        tr:hover {
+            background-color: #f5f5f5;
+            cursor: pointer;
+        }
+
+        tr.highlight {
+            background-color: #ffe6e6;
+        }
+
+        .active-input {
+            background-color: #e8f5e9;  /* Light green background */
+            border-color: #4caf50 !important;  /* Green border */
+            box-shadow: 0 0 5px rgba(76, 175, 80, 0.3);  /* Green glow */
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Class Information</h1>
+        
+        <!-- Class Information Form -->
+        <form id="classForm">
+            <div class="form-group">
+                <label for="className">Class Name:</label>
+                <input type="text" id="className" required>
+            </div>
+            
+            <div class="form-group">
+                <label for="numPeople">Number of People:</label>
+                <input type="number" id="numPeople" required min="1">
+            </div>
+            
+            <div class="form-group">
+                <label for="description">Description:</label>
+                <textarea id="description" rows="3" required></textarea>
+            </div>
+            
+            <button type="submit">Add Class</button>
+        </form>
+
+        <!-- Class Table -->
+        <table id="classTable">
+            <thead>
+                <tr>
+                    <th>Class Name</th>
+                    <th>Number of People</th>
+                    <th>Description</th>
+                </tr>
+            </thead>
+            <tbody>
+                <!-- Table rows will be added dynamically -->
+            </tbody>
+        </table>
+    </div>
+
+    <script>
+        // Store all classes
+        let classes = [];
+
+        // Form submission
+        document.getElementById('classForm').addEventListener('submit', function(e) {
+            e.preventDefault();
+            
+            // Get form values
+            const className = document.getElementById('className').value;
+            const numPeople = document.getElementById('numPeople').value;
+            const description = document.getElementById('description').value;
+            
+            // Add to classes array
+            classes.push({ className, numPeople, description });
+            
+            // Add to table
+            addClassToTable(className, numPeople, description);
+            
+            // Clear form
+            this.reset();
+        });
+
+        // Add class to table
+        function addClassToTable(className, numPeople, description) {
+            const tbody = document.querySelector('#classTable tbody');
+            const row = document.createElement('tr');
+            
+            row.innerHTML = `
+                <td>${className}</td>
+                <td>${numPeople}</td>
+                <td>${description}</td>
+            `;
+            
+            tbody.appendChild(row);
+        }
+
+        // Event 1: Row click - highlight and log details
+        document.querySelector('#classTable tbody').addEventListener('click', function(e) {
+            const row = e.target.closest('tr');
+            if (row) {
+                // Remove highlight from other rows
+                document.querySelectorAll('#classTable tr').forEach(r => r.classList.remove('highlight'));
+                // Add highlight to clicked row
+                row.classList.add('highlight');
+                // Log row details
+                console.log('Row Details:', {
+                    className: row.cells[0].textContent,
+                    numPeople: row.cells[1].textContent,
+                    description: row.cells[2].textContent
+                });
+            }
+        });
+
+        // Event 2: Input focus - style change
+        document.querySelectorAll('input, textarea').forEach(input => {
+            input.addEventListener('focus', function() {
+                this.classList.add('active-input');
+            });
+            
+            input.addEventListener('blur', function() {
+                this.classList.remove('active-input');
+            });
+        });
+
+        // Event 3: Table hover - mouseover/mouseout
+        document.querySelector('#classTable tbody').addEventListener('mouseover', function(e) {
+            const row = e.target.closest('tr');
+            if (row) {
+                row.style.backgroundColor = '#ffe6e6';
+            }
+        });
+
+        document.querySelector('#classTable tbody').addEventListener('mouseout', function(e) {
+            const row = e.target.closest('tr');
+            if (row && !row.classList.contains('highlight')) {
+                row.style.backgroundColor = '';
+            }
+        });
+
+        // Event 4: Table click - print all entries
+        document.querySelector('#classTable').addEventListener('click', function(e) {
+            if (e.target.tagName === 'TABLE') {
+                console.log('All Class Entries:', classes);
+            }
+        });
+
+        // Event 5: Double click - remove row
+        document.querySelector('#classTable tbody').addEventListener('dblclick', function(e) {
+            const row = e.target.closest('tr');
+            if (row) {
+                const index = Array.from(row.parentNode.children).indexOf(row);
+                classes.splice(index, 1);
+                row.remove();
+                console.log('Row removed. Updated classes:', classes);
+            }
+        });
+
+        // Event 6: Keyup
+        document.getElementById('numPeople').addEventListener('keyup', function(e) {
+            const value = this.value;
+            const numValue = parseInt(value);
+            
+            if (value === '' || value.includes('-') || isNaN(numValue) || numValue < 1) {
+                this.style.borderColor = 'red';
+                this.title = 'Number of people must be at least 1';
+            } else {
+                this.style.borderColor = 'green';
+                this.title = 'Valid number';
+            }
+        });
+    </script>
+</body>
+</html> 
