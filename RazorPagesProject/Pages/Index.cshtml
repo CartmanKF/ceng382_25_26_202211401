@@ -4,7 +4,75 @@
     ViewData["Title"] = "Home page";
 }
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+<div class="container">
+    <div class="row">
+        <!-- Form Column -->
+        <div class="col-md-4">
+            <h2>@(Model.EditId.HasValue ? "Edit" : "Add") Class Information</h2>
+            <form method="post">
+                <input type="hidden" asp-for="EditId" />
+                <div class="form-group mb-3">
+                    <label asp-for="ClassInfo.ClassName"></label>
+                    <input asp-for="ClassInfo.ClassName" class="form-control" />
+                    <span asp-validation-for="ClassInfo.ClassName" class="text-danger"></span>
+                </div>
+
+                <div class="form-group mb-3">
+                    <label asp-for="ClassInfo.StudentCount"></label>
+                    <input asp-for="ClassInfo.StudentCount" class="form-control" type="number" />
+                    <span asp-validation-for="ClassInfo.StudentCount" class="text-danger"></span>
+                </div>
+
+                <div class="form-group mb-3">
+                    <label asp-for="ClassInfo.Description"></label>
+                    <textarea asp-for="ClassInfo.Description" class="form-control" rows="3"></textarea>
+                    <span asp-validation-for="ClassInfo.Description" class="text-danger"></span>
+                </div>
+
+                <button type="submit" class="btn btn-primary" asp-page-handler="Add">@(Model.EditId.HasValue ? "Update" : "Add") Class</button>
+                @if (Model.EditId.HasValue)
+                {
+                    <a asp-page="./Index" class="btn btn-secondary">Cancel</a>
+                }
+            </form>
+        </div>
+
+        <!-- Table Column -->
+        <div class="col-md-8">
+            <h2>Class List</h2>
+            <table class="table table-striped">
+                <thead>
+                    <tr>
+                        <th>ID</th>
+                        <th>Class Name</th>
+                        <th>Student Count</th>
+                        <th>Description</th>
+                        <th>Actions</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model.Classes)
+                    {
+                        <tr>
+                            <td>@item.Id</td>
+                            <td>@item.ClassName</td>
+                            <td>@item.StudentCount</td>
+                            <td>@item.Description</td>
+                            <td>
+                                <a asp-page="./Index" asp-route-editId="@item.Id" class="btn btn-warning btn-sm">Edit</a>
+                                <form method="post" style="display: inline;">
+                                    <input type="hidden" name="id" value="@item.Id" />
+                                    <button type="submit" class="btn btn-danger btn-sm" asp-page-handler="Delete">Delete</button>
+                                </form>
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
 </div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
