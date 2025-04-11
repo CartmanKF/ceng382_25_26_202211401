@@ -16,11 +16,39 @@ namespace RazorPagesProject.Pages
         [BindProperty(SupportsGet = true)]
         public int? EditId { get; set; }
 
-        public List<ClassInformationModel> Classes => _classes;
+        [BindProperty(SupportsGet = true)]
+        public string SearchString { get; set; }
+
+        [BindProperty(SupportsGet = true)]
+        public int CurrentPage { get; set; } = 1;
+
+        public int PageSize { get; set; } = 10;
+        public int TotalPages { get; set; }
+        public List<ClassInformationTable> FilteredClasses { get; set; }
 
         public IndexModel(ILogger<IndexModel> logger)
         {
             _logger = logger;
+            // Generate sample data if empty
+            if (_classes.Count == 0)
+            {
+                GenerateSampleData();
+            }
+        }
+
+        private void GenerateSampleData()
+        {
+            var random = new Random();
+            for (int i = 0; i < 100; i++)
+            {
+                _classes.Add(new ClassInformationModel
+                {
+                    Id = _nextId++,
+                    ClassName = $"Class {i + 1}",
+                    StudentCount = random.Next(20, 50),
+                    Description = $"Description for Class {i + 1}"
+                });
+            }
         }
 
         public void OnGet()
@@ -39,6 +67,33 @@ namespace RazorPagesProject.Pages
                     };
                 }
             }
+
+            // Apply filtering
+            var query = _classes.AsQueryable();
+            if (!string.IsNullOrEmpty(SearchString))
+            {
+                query = query.Where(c => 
+                    c.ClassName.Contains(SearchString, StringComparison.OrdinalIgnoreCase) ||
+                    c.Description.Contains(SearchString, StringComparison.OrdinalIgnoreCase));
+            }
+
+            // Calculate pagination
+            TotalPages = (int)Math.Ceiling(query.Count() / (double)PageSize);
+            CurrentPage = Math.Max(1, Math.Min(CurrentPage, TotalPages));
+
+            // Apply pagination
+            var paginatedQuery = query
+                .Skip((CurrentPage - 1) * PageSize)
+                .Take(PageSize);
+
+            // Convert to ClassInformationTable
+            FilteredClasses = paginatedQuery.Select(c => new ClassInformationTable
+            {
+                Id = c.Id,
+                ClassName = c.ClassName,
+                StudentCount = c.StudentCount,
+                Description = c.Description
+            }).ToList();
         }
 
         public IActionResult OnPostAdd()
