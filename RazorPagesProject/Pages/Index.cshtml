@@ -1,0 +1,270 @@
+﻿@page "{pageNumber:int?}"
+@model IndexModel
+@{
+    ViewData["Title"] = "Class Information";
+}
+
+<div class="page-header">
+    <div class="container">
+        <div class="row align-items-center">
+            <div class="col">
+                <h1 class="display-4">@ViewData["Title"]</h1>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="container">
+    <!-- Export/Import Section -->
+    <div class="row mb-4">
+        <div class="col-md-6">
+            <div class="card shadow-sm">
+                <div class="card-body">
+                    <h5 class="card-title text-primary mb-3">Export Options</h5>
+                    <form method="post" asp-page-handler="ExportToJson">
+                        <div class="form-group">
+                            <label for="exportFiltered" class="form-label">Export Filtered?</label>
+                            <select name="exportFiltered" class="form-control" id="exportFiltered">
+                                <option value="false" selected>Spesific Datas<Data> to JASON</Data></option>
+                            </select>
+                        </div>
+                        <button type="submit" class="btn btn-success">
+                            <i class="fas fa-file-export"></i> Export to JSON
+                        </button>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Error/Success Messages -->
+    @if (TempData["ErrorMessage"] != null)
+    {
+        <div class="alert alert-danger alert-dismissible fade show shadow-sm" role="alert">
+            <i class="fas fa-exclamation-circle"></i> @TempData["ErrorMessage"]
+            <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+            </button>
+        </div>
+    }
+    @if (TempData["SuccessMessage"] != null)
+    {
+        <div class="alert alert-success alert-dismissible fade show shadow-sm" role="alert">
+            <i class="fas fa-check-circle"></i> @TempData["SuccessMessage"]
+            <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+            </button>
+        </div>
+    }
+
+    <!-- Add/Edit Modal -->
+    <div class="modal fade" id="classModal" tabindex="-1" role="dialog" aria-labelledby="classModalLabel" aria-hidden="true">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title text-dark" id="classModalLabel">Add/Edit Class</h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+                    <form id="classForm">
+                        <input type="hidden" id="classId" name="Id" value="0" />
+                        <div class="form-group">
+                            <label for="className" class="text-dark">Class Name</label>
+                            <input type="text" class="form-control text-dark" id="className" name="ClassName" required style="color: black !important;">
+                        </div>
+                        <div class="form-group">
+                            <label for="studentCount" class="text-dark">Student Count</label>
+                            <input type="number" class="form-control text-dark" id="studentCount" name="StudentCount" min="1" required style="color: black !important;">
+                        </div>
+                        <div class="form-group">
+                            <label for="description" class="text-dark">Description</label>
+                            <input type="text" class="form-control text-dark" id="description" name="Description" required style="color: black !important;">
+                        </div>
+                    </form>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                    <button type="button" class="btn btn-primary" onclick="saveClass()">Save</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Add Button -->
+    <div class="mb-3">
+        <button type="button" class="btn btn-primary" onclick="showAddModal()">
+            <i class="fas fa-plus"></i> Add New Class
+        </button>
+    </div>
+
+    <!-- Class List Table -->
+    <div class="card shadow-sm mb-4">
+        <div class="card-body">
+            <div class="table-responsive">
+                <table class="table table-hover">
+                    <thead class="thead-light">
+                        <tr>
+                            <th>ID</th>
+                            <th>Class Name</th>
+                            <th>Student Count</th>
+                            <th>Description</th>
+                            <th>Actions</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var classInfo in Model.Classes)
+                        {
+                            <tr>
+                                <td>@classInfo.Id</td>
+                                <td>@classInfo.ClassName</td>
+                                <td>@classInfo.StudentCount</td>
+                                <td>@classInfo.Description</td>
+                                <td>
+                                    <div class="btn-group" role="group">
+                                        <button type="button" class="btn btn-warning btn-sm" onclick="showEditModal(@classInfo.Id)">
+                                            <i class="fas fa-edit"></i> Edit
+                                        </button>
+                                        <form method="post" asp-page-handler="Delete" asp-route-id="@classInfo.Id" class="d-inline">
+                                            <button type="submit" class="btn btn-danger btn-sm" 
+                                                    onclick="return confirm('Are you sure you want to delete this class?')">
+                                                <i class="fas fa-trash"></i> Delete
+                                            </button>
+                                        </form>
+                                    </div>
+                                </td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+
+    <!-- Pagination -->
+    @if (Model.TotalPages > 1)
+    {
+        <nav aria-label="Page navigation" class="d-flex justify-content-center">
+            <ul class="pagination">
+                <li class="page-item @(Model.CurrentPage == 1 ? "disabled" : "")">
+                    <a class="page-link" asp-page="/Index" asp-route-pageNumber="1" asp-route-searchTerm="@Model.SearchTerm">
+                        <i class="fas fa-angle-double-left"></i>
+                    </a>
+                </li>
+                <li class="page-item @(Model.CurrentPage == 1 ? "disabled" : "")">
+                    <a class="page-link" asp-page="/Index" asp-route-pageNumber="@(Model.CurrentPage - 1)" asp-route-searchTerm="@Model.SearchTerm">
+                        <i class="fas fa-angle-left"></i>
+                    </a>
+                </li>
+
+                @for (int i = Math.Max(1, Model.CurrentPage - 2); i <= Math.Min(Model.TotalPages, Model.CurrentPage + 2); i++)
+                {
+                    <li class="page-item @(i == Model.CurrentPage ? "active" : "")">
+                        <a class="page-link" asp-page="/Index" asp-route-pageNumber="@i" asp-route-searchTerm="@Model.SearchTerm">@i</a>
+                    </li>
+                }
+
+                <li class="page-item @(Model.CurrentPage == Model.TotalPages ? "disabled" : "")">
+                    <a class="page-link" asp-page="/Index" asp-route-pageNumber="@(Model.CurrentPage + 1)" asp-route-searchTerm="@Model.SearchTerm">
+                        <i class="fas fa-angle-right"></i>
+                    </a>
+                </li>
+                <li class="page-item @(Model.CurrentPage == Model.TotalPages ? "disabled" : "")">
+                    <a class="page-link" asp-page="/Index" asp-route-pageNumber="@Model.TotalPages" asp-route-searchTerm="@Model.SearchTerm">
+                        <i class="fas fa-angle-double-right"></i>
+                    </a>
+                </li>
+            </ul>
+        </nav>
+
+        <div class="text-center mt-2">
+            <small class="text-muted">
+                Showing page @Model.CurrentPage of @Model.TotalPages (@Model.TotalItems total items)
+            </small>
+        </div>
+    }
+</div>
+
+@section Scripts {
+    <script>
+        function showAddModal() {
+            $('#classId').val(0);
+            $('#className').val('');
+            $('#studentCount').val('');
+            $('#description').val('');
+            $('#classModalLabel').text('Add New Class');
+            $('#classModal').modal('show');
+        }
+
+        function showEditModal(id) {
+            $.get(`?handler=GetClass&id=${id}`, function(data) {
+                $('#classId').val(data.id);
+                $('#className').val(data.className);
+                $('#studentCount').val(data.studentCount);
+                $('#description').val(data.description);
+                $('#classModalLabel').text('Edit Class');
+                $('#classModal').modal('show');
+            });
+        }
+
+        function saveClass() {
+            var formData = {
+                Id: parseInt($('#classId').val()),
+                ClassName: $('#className').val(),
+                StudentCount: parseInt($('#studentCount').val()),
+                Description: $('#description').val()
+            };
+
+            $.ajax({
+                url: '?handler=Add',
+                type: 'POST',
+                contentType: 'application/json',
+                data: JSON.stringify(formData),
+                headers: {
+                    "RequestVerificationToken": $('input[name="__RequestVerificationToken"]').val()
+                },
+                success: function(response) {
+                    if (response.success) {
+                        $('#classModal').modal('hide');
+                        window.location.reload();
+                    } else {
+                        alert('Error: ' + response.error);
+                    }
+                },
+                error: function(xhr, status, error) {
+                    var errorMessage = xhr.responseJSON ? xhr.responseJSON.error : 'An error occurred while saving the class.';
+                    alert(errorMessage);
+                }
+            });
+        }
+
+        // Handle file input
+        $('.custom-file-input').on('change', function () {
+            var fileName = $(this).val().split('\\').pop();
+            $(this).next('.custom-file-label').html(fileName);
+        });
+
+        // Handle column selection
+        document.querySelectorAll('input[name="selectedColumns"]').forEach(checkbox => {
+            checkbox.addEventListener('change', function() {
+                const columnName = this.value;
+                const tableHeader = document.querySelector(`th:contains('${columnName}')`);
+                const tableCells = document.querySelectorAll(`td:nth-child(${Array.from(tableHeader.parentElement.children).indexOf(tableHeader) + 1})`);
+                
+                if (this.checked) {
+                    tableHeader.classList.add('selected');
+                    tableCells.forEach(cell => cell.classList.add('selected'));
+                } else {
+                    tableHeader.classList.remove('selected');
+                    tableCells.forEach(cell => cell.classList.remove('selected'));
+                }
+            });
+        });
+
+        // Helper function
+        jQuery.expr[':'].contains = function(a, i, m) {
+            return jQuery(a).text().toUpperCase().indexOf(m[3].toUpperCase()) >= 0;
+        };
+    </script>
+}

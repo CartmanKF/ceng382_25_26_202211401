@@ -1,0 +1,390 @@
+C:\Users\Administrator\Desktop\Homework\RazorPagesProject\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\Administrator\Desktop\Homework\RazorPagesProject\bin\Debug\net9.0\appsettings.json
+C:\Users\Administrator\Desktop\Homework\RazorPagesProject\bin\Debug\net9.0\RazorPagesProject.staticwebassets.runtime.json
+C:\Users\Administrator\Desktop\Homework\RazorPagesProject\bin\Debug\net9.0\RazorPagesProject.staticwebassets.endpoints.json
+C:\Users\Administrator\Desktop\Homework\RazorPagesProject\bin\Debug\net9.0\RazorPagesProject.exe
+C:\Users\Administrator\Desktop\Homework\RazorPagesProject\bin\Debug\net9.0\RazorPagesProject.deps.json
+C:\Users\Administrator\Desktop\Homework\RazorPagesProject\bin\Debug\net9.0\RazorPagesProject.runtimeconfig.json
+C:\Users\Administrator\Desktop\Homework\RazorPagesProject\bin\Debug\net9.0\RazorPagesProject.dll
+C:\Users\Administrator\Desktop\Homework\RazorPagesProject\bin\Debug\net9.0\RazorPagesProject.pdb
+C:\Users\Administrator\Desktop\Homework\RazorPagesProject\obj\Debug\net9.0\RazorPagesProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Homework\RazorPagesProject\obj\Debug\net9.0\RazorPagesProject.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Homework\RazorPagesProject\obj\Debug\net9.0\RazorPagesProject.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Homework\RazorPagesProject\obj\Debug\net9.0\RazorPagesProject.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Homework\RazorPagesProject\obj\Debug\net9.0\RazorPagesProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Administrator\Desktop\Homework\RazorPagesProject\obj\Debug\net9.0\RazorPagesProject.RazorAssemblyInfo.cache
+C:\Users\Administrator\Desktop\Homework\RazorPagesProject\obj\Debug\net9.0\RazorPagesProject.RazorAssemblyInfo.cs
+C:\Users\Administrator\Desktop\Homework\RazorPagesProject\obj\Debug\net9.0\RazorPagesProject.sourcelink.json
+C:\Users\Administrator\Desktop\Homework\RazorPagesProject\obj\Debug\net9.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Administrator\Desktop\Homework\RazorPagesProject\obj\Debug\net9.0\scopedcss\bundle\RazorPagesProject.styles.css
+C:\Users\Administrator\Desktop\Homework\RazorPagesProject\obj\Debug\net9.0\scopedcss\projectbundle\RazorPagesProject.bundle.scp.css
+C:\Users\Administrator\Desktop\Homework\RazorPagesProject\obj\Debug\net9.0\compressed\iumntnzj1n-61n19gt1b8.gz
+C:\Users\Administrator\Desktop\Homework\RazorPagesProject\obj\Debug\net9.0\compressed\wf5222wrxs-bqjiyaj88i.gz
+C:\Users\Administrator\Desktop\Homework\RazorPagesProject\obj\Debug\net9.0\compressed\hqr7p2bm0d-c2jlpeoesf.gz
+C:\Users\Administrator\Desktop\Homework\RazorPagesProject\obj\Debug\net9.0\compressed\vlgv4ql13d-erw9l3u2r3.gz
+C:\Users\Administrator\Desktop\Homework\RazorPagesProject\obj\Debug\net9.0\compressed\nk808wbyas-aexeepp0ev.gz
+C:\Users\Administrator\Desktop\Homework\RazorPagesProject\obj\Debug\net9.0\compressed\r2vxw113wx-d7shbmvgxk.gz
+C:\Users\Administrator\Desktop\Homework\RazorPagesProject\obj\Debug\net9.0\compressed\te5bkxrqfi-ausgxo2sd3.gz
+C:\Users\Administrator\Desktop\Homework\RazorPagesProject\obj\Debug\net9.0\compressed\fbit1eeub9-k8d9w2qqmf.gz
+C:\Users\Administrator\Desktop\Homework\RazorPagesProject\obj\Debug\net9.0\compressed\la9ib0zhnf-cosvhxvwiu.gz
+C:\Users\Administrator\Desktop\Homework\RazorPagesProject\obj\Debug\net9.0\compressed\lzo9blr9rt-ub07r2b239.gz
+C:\Users\Administrator\Desktop\Homework\RazorPagesProject\obj\Debug\net9.0\compressed\ijsrr7r1iv-fvhpjtyr6v.gz
+C:\Users\Administrator\Desktop\Homework\RazorPagesProject\obj\Debug\net9.0\compressed\letnltjoxi-b7pk76d08c.gz
+C:\Users\Administrator\Desktop\Homework\RazorPagesProject\obj\Debug\net9.0\compressed\277qdadepg-fsbi9cje9m.gz
+C:\Users\Administrator\Desktop\Homework\RazorPagesProject\obj\Debug\net9.0\compressed\jtntc00j0k-rzd6atqjts.gz
+C:\Users\Administrator\Desktop\Homework\RazorPagesProject\obj\Debug\net9.0\compressed\wq0suwir0z-ee0r1s7dh0.gz
+C:\Users\Administrator\Desktop\Homework\RazorPagesProject\obj\Debug\net9.0\compressed\rp0dnvye19-dxx9fxp4il.gz
+C:\Users\Administrator\Desktop\Homework\RazorPagesProject\obj\Debug\net9.0\compressed\shxstr087g-jd9uben2k1.gz
+C:\Users\Administrator\Desktop\Homework\RazorPagesProject\obj\Debug\net9.0\compressed\vbz0ep2gsz-khv3u5hwcm.gz
+C:\Users\Administrator\Desktop\Homework\RazorPagesProject\obj\Debug\net9.0\compressed\tzg5pvqx73-r4e9w2rdcm.gz
+C:\Users\Administrator\Desktop\Homework\RazorPagesProject\obj\Debug\net9.0\compressed\yirvhl79ex-lcd1t2u6c8.gz
+C:\Users\Administrator\Desktop\Homework\RazorPagesProject\obj\Debug\net9.0\compressed\xj86qy9mzn-c2oey78nd0.gz
+C:\Users\Administrator\Desktop\Homework\RazorPagesProject\obj\Debug\net9.0\compressed\79v134io9p-tdbxkamptv.gz
+C:\Users\Administrator\Desktop\Homework\RazorPagesProject\obj\Debug\net9.0\compressed\6g5w7hxtas-j5mq2jizvt.gz
+C:\Users\Administrator\Desktop\Homework\RazorPagesProject\obj\Debug\net9.0\compressed\93i98z11kh-06098lyss8.gz
+C:\Users\Administrator\Desktop\Homework\RazorPagesProject\obj\Debug\net9.0\compressed\o1ta7rx2z3-nvvlpmu67g.gz
+C:\Users\Administrator\Desktop\Homework\RazorPagesProject\obj\Debug\net9.0\compressed\6thnijxedo-s35ty4nyc5.gz
+C:\Users\Administrator\Desktop\Homework\RazorPagesProject\obj\Debug\net9.0\compressed\p0qkv8jegi-pj5nd1wqec.gz
+C:\Users\Administrator\Desktop\Homework\RazorPagesProject\obj\Debug\net9.0\compressed\lvr333ezyy-46ein0sx1k.gz
+C:\Users\Administrator\Desktop\Homework\RazorPagesProject\obj\Debug\net9.0\compressed\gonpwkziul-v0zj4ognzu.gz
+C:\Users\Administrator\Desktop\Homework\RazorPagesProject\obj\Debug\net9.0\compressed\lavnkye3jk-37tfw0ft22.gz
+C:\Users\Administrator\Desktop\Homework\RazorPagesProject\obj\Debug\net9.0\compressed\3uxr308ugq-hrwsygsryq.gz
+C:\Users\Administrator\Desktop\Homework\RazorPagesProject\obj\Debug\net9.0\compressed\torqmxo8rq-pk9g2wxc8p.gz
+C:\Users\Administrator\Desktop\Homework\RazorPagesProject\obj\Debug\net9.0\compressed\ar93prtdlf-ft3s53vfgj.gz
+C:\Users\Administrator\Desktop\Homework\RazorPagesProject\obj\Debug\net9.0\compressed\z67h4vpd5e-6cfz1n2cew.gz
+C:\Users\Administrator\Desktop\Homework\RazorPagesProject\obj\Debug\net9.0\compressed\lfygxa4zib-6pdc2jztkx.gz
+C:\Users\Administrator\Desktop\Homework\RazorPagesProject\obj\Debug\net9.0\compressed\ice0o7me97-493y06b0oq.gz
+C:\Users\Administrator\Desktop\Homework\RazorPagesProject\obj\Debug\net9.0\compressed\rnwsqm1wed-iovd86k7lj.gz
+C:\Users\Administrator\Desktop\Homework\RazorPagesProject\obj\Debug\net9.0\compressed\mncz64uela-vr1egmr9el.gz
+C:\Users\Administrator\Desktop\Homework\RazorPagesProject\obj\Debug\net9.0\compressed\3kcx5fyq9n-kbrnm935zg.gz
+C:\Users\Administrator\Desktop\Homework\RazorPagesProject\obj\Debug\net9.0\compressed\ufm1vku7i8-jj8uyg4cgr.gz
+C:\Users\Administrator\Desktop\Homework\RazorPagesProject\obj\Debug\net9.0\compressed\po8x85svvi-y7v9cxd14o.gz
+C:\Users\Administrator\Desktop\Homework\RazorPagesProject\obj\Debug\net9.0\compressed\2hpyrbzm6p-notf2xhcfb.gz
+C:\Users\Administrator\Desktop\Homework\RazorPagesProject\obj\Debug\net9.0\compressed\o31ymdu3lh-h1s4sie4z3.gz
+C:\Users\Administrator\Desktop\Homework\RazorPagesProject\obj\Debug\net9.0\compressed\od726clo3u-63fj8s7r0e.gz
+C:\Users\Administrator\Desktop\Homework\RazorPagesProject\obj\Debug\net9.0\compressed\pq3tyqpesh-0j3bgjxly4.gz
+C:\Users\Administrator\Desktop\Homework\RazorPagesProject\obj\Debug\net9.0\compressed\7fzbmeeocy-47otxtyo56.gz
+C:\Users\Administrator\Desktop\Homework\RazorPagesProject\obj\Debug\net9.0\compressed\neaun4zqzb-4v8eqarkd7.gz
+C:\Users\Administrator\Desktop\Homework\RazorPagesProject\obj\Debug\net9.0\compressed\pmvh0fy9ei-lzl9nlhx6b.gz
+C:\Users\Administrator\Desktop\Homework\RazorPagesProject\obj\Debug\net9.0\compressed\jojnz8awv1-ag7o75518u.gz
+C:\Users\Administrator\Desktop\Homework\RazorPagesProject\obj\Debug\net9.0\compressed\7jbi4r6xxa-0i3buxo5is.gz
+C:\Users\Administrator\Desktop\Homework\RazorPagesProject\obj\Debug\net9.0\compressed\9iltijfsb8-o1o13a6vjx.gz
+C:\Users\Administrator\Desktop\Homework\RazorPagesProject\obj\Debug\net9.0\compressed\lt7r8ux4qt-ttgo8qnofa.gz
+C:\Users\Administrator\Desktop\Homework\RazorPagesProject\obj\Debug\net9.0\compressed\d1t2cipkkr-2z0ns9nrw6.gz
+C:\Users\Administrator\Desktop\Homework\RazorPagesProject\obj\Debug\net9.0\compressed\1gpwdd86lg-muycvpuwrr.gz
+C:\Users\Administrator\Desktop\Homework\RazorPagesProject\obj\Debug\net9.0\compressed\8ioz9tmjoy-87fc7y1x7t.gz
+C:\Users\Administrator\Desktop\Homework\RazorPagesProject\obj\Debug\net9.0\compressed\qb54eiep0q-501xcydw6r.gz
+C:\Users\Administrator\Desktop\Homework\RazorPagesProject\obj\Debug\net9.0\compressed\u4xt045i8q-501xcydw6r.gz
+C:\Users\Administrator\Desktop\Homework\RazorPagesProject\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Administrator\Desktop\Homework\RazorPagesProject\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\Administrator\Desktop\Homework\RazorPagesProject\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\Administrator\Desktop\Homework\RazorPagesProject\obj\Debug\net9.0\staticwebassets\msbuild.RazorPagesProject.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Administrator\Desktop\Homework\RazorPagesProject\obj\Debug\net9.0\staticwebassets\msbuild.RazorPagesProject.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Administrator\Desktop\Homework\RazorPagesProject\obj\Debug\net9.0\staticwebassets\msbuild.build.RazorPagesProject.props
+C:\Users\Administrator\Desktop\Homework\RazorPagesProject\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.RazorPagesProject.props
+C:\Users\Administrator\Desktop\Homework\RazorPagesProject\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.RazorPagesProject.props
+C:\Users\Administrator\Desktop\Homework\RazorPagesProject\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\Administrator\Desktop\Homework\RazorPagesProject\obj\Debug\net9.0\RazorPagesProject.dll
+C:\Users\Administrator\Desktop\Homework\RazorPagesProject\obj\Debug\net9.0\refint\RazorPagesProject.dll
+C:\Users\Administrator\Desktop\Homework\RazorPagesProject\obj\Debug\net9.0\RazorPagesProject.pdb
+C:\Users\Administrator\Desktop\Homework\RazorPagesProject\obj\Debug\net9.0\RazorPagesProject.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\Homework\RazorPagesProject\obj\Debug\net9.0\ref\RazorPagesProject.dll
+C:\Users\Administrator\Desktop\Homework\RazorPagesProject\bin\Debug\net9.0\class_data.json
+C:\Users\bulent\Desktop\cartman\ceng382_25_26_202211401\RazorPagesProject\bin\Debug\net9.0\RazorPagesProject.exe
+C:\Users\bulent\Desktop\cartman\ceng382_25_26_202211401\RazorPagesProject\bin\Debug\net9.0\RazorPagesProject.dll
+C:\Users\bulent\Desktop\cartman\ceng382_25_26_202211401\RazorPagesProject\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\bulent\Desktop\cartman\ceng382_25_26_202211401\RazorPagesProject\bin\Debug\net9.0\appsettings.json
+C:\Users\bulent\Desktop\cartman\ceng382_25_26_202211401\RazorPagesProject\bin\Debug\net9.0\class_data.json
+C:\Users\bulent\Desktop\cartman\ceng382_25_26_202211401\RazorPagesProject\bin\Debug\net9.0\RazorPagesProject.staticwebassets.runtime.json
+C:\Users\bulent\Desktop\cartman\ceng382_25_26_202211401\RazorPagesProject\bin\Debug\net9.0\RazorPagesProject.staticwebassets.endpoints.json
+C:\Users\bulent\Desktop\cartman\ceng382_25_26_202211401\RazorPagesProject\bin\Debug\net9.0\RazorPagesProject.deps.json
+C:\Users\bulent\Desktop\cartman\ceng382_25_26_202211401\RazorPagesProject\bin\Debug\net9.0\RazorPagesProject.runtimeconfig.json
+C:\Users\bulent\Desktop\cartman\ceng382_25_26_202211401\RazorPagesProject\bin\Debug\net9.0\RazorPagesProject.pdb
+C:\Users\bulent\Desktop\cartman\ceng382_25_26_202211401\RazorPagesProject\obj\Debug\net9.0\RazorPagesProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bulent\Desktop\cartman\ceng382_25_26_202211401\RazorPagesProject\obj\Debug\net9.0\RazorPagesProject.AssemblyInfoInputs.cache
+C:\Users\bulent\Desktop\cartman\ceng382_25_26_202211401\RazorPagesProject\obj\Debug\net9.0\RazorPagesProject.AssemblyInfo.cs
+C:\Users\bulent\Desktop\cartman\ceng382_25_26_202211401\RazorPagesProject\obj\Debug\net9.0\RazorPagesProject.csproj.CoreCompileInputs.cache
+C:\Users\bulent\Desktop\cartman\ceng382_25_26_202211401\RazorPagesProject\obj\Debug\net9.0\RazorPagesProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\bulent\Desktop\cartman\ceng382_25_26_202211401\RazorPagesProject\obj\Debug\net9.0\RazorPagesProject.RazorAssemblyInfo.cache
+C:\Users\bulent\Desktop\cartman\ceng382_25_26_202211401\RazorPagesProject\obj\Debug\net9.0\RazorPagesProject.RazorAssemblyInfo.cs
+C:\Users\bulent\Desktop\cartman\ceng382_25_26_202211401\RazorPagesProject\obj\Debug\net9.0\RazorPagesProject.sourcelink.json
+C:\Users\bulent\Desktop\cartman\ceng382_25_26_202211401\RazorPagesProject\obj\Debug\net9.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\bulent\Desktop\cartman\ceng382_25_26_202211401\RazorPagesProject\obj\Debug\net9.0\scopedcss\bundle\RazorPagesProject.styles.css
+C:\Users\bulent\Desktop\cartman\ceng382_25_26_202211401\RazorPagesProject\obj\Debug\net9.0\scopedcss\projectbundle\RazorPagesProject.bundle.scp.css
+C:\Users\bulent\Desktop\cartman\ceng382_25_26_202211401\RazorPagesProject\obj\Debug\net9.0\compressed\2bxjzfls5y-b9sayid5wm.gz
+C:\Users\bulent\Desktop\cartman\ceng382_25_26_202211401\RazorPagesProject\obj\Debug\net9.0\compressed\iumntnzj1n-61n19gt1b8.gz
+C:\Users\bulent\Desktop\cartman\ceng382_25_26_202211401\RazorPagesProject\obj\Debug\net9.0\compressed\999jexk0bj-xtxxf3hu2r.gz
+C:\Users\bulent\Desktop\cartman\ceng382_25_26_202211401\RazorPagesProject\obj\Debug\net9.0\compressed\wf5222wrxs-t1cqhe9u97.gz
+C:\Users\bulent\Desktop\cartman\ceng382_25_26_202211401\RazorPagesProject\obj\Debug\net9.0\compressed\hqr7p2bm0d-c2jlpeoesf.gz
+C:\Users\bulent\Desktop\cartman\ceng382_25_26_202211401\RazorPagesProject\obj\Debug\net9.0\compressed\vlgv4ql13d-sejl45xvog.gz
+C:\Users\bulent\Desktop\cartman\ceng382_25_26_202211401\RazorPagesProject\obj\Debug\net9.0\compressed\nk808wbyas-aexeepp0ev.gz
+C:\Users\bulent\Desktop\cartman\ceng382_25_26_202211401\RazorPagesProject\obj\Debug\net9.0\compressed\r2vxw113wx-xvp3kq03qx.gz
+C:\Users\bulent\Desktop\cartman\ceng382_25_26_202211401\RazorPagesProject\obj\Debug\net9.0\compressed\te5bkxrqfi-ausgxo2sd3.gz
+C:\Users\bulent\Desktop\cartman\ceng382_25_26_202211401\RazorPagesProject\obj\Debug\net9.0\compressed\fbit1eeub9-22vffe00uq.gz
+C:\Users\bulent\Desktop\cartman\ceng382_25_26_202211401\RazorPagesProject\obj\Debug\net9.0\compressed\la9ib0zhnf-cosvhxvwiu.gz
+C:\Users\bulent\Desktop\cartman\ceng382_25_26_202211401\RazorPagesProject\obj\Debug\net9.0\compressed\lzo9blr9rt-qesaa3a1fm.gz
+C:\Users\bulent\Desktop\cartman\ceng382_25_26_202211401\RazorPagesProject\obj\Debug\net9.0\compressed\ijsrr7r1iv-fvhpjtyr6v.gz
+C:\Users\bulent\Desktop\cartman\ceng382_25_26_202211401\RazorPagesProject\obj\Debug\net9.0\compressed\letnltjoxi-tmc1g35s3z.gz
+C:\Users\bulent\Desktop\cartman\ceng382_25_26_202211401\RazorPagesProject\obj\Debug\net9.0\compressed\277qdadepg-fsbi9cje9m.gz
+C:\Users\bulent\Desktop\cartman\ceng382_25_26_202211401\RazorPagesProject\obj\Debug\net9.0\compressed\jtntc00j0k-rxsg74s51o.gz
+C:\Users\bulent\Desktop\cartman\ceng382_25_26_202211401\RazorPagesProject\obj\Debug\net9.0\compressed\wq0suwir0z-ee0r1s7dh0.gz
+C:\Users\bulent\Desktop\cartman\ceng382_25_26_202211401\RazorPagesProject\obj\Debug\net9.0\compressed\rp0dnvye19-q9ht133ko3.gz
+C:\Users\bulent\Desktop\cartman\ceng382_25_26_202211401\RazorPagesProject\obj\Debug\net9.0\compressed\shxstr087g-jd9uben2k1.gz
+C:\Users\bulent\Desktop\cartman\ceng382_25_26_202211401\RazorPagesProject\obj\Debug\net9.0\compressed\vbz0ep2gsz-gye83jo8yx.gz
+C:\Users\bulent\Desktop\cartman\ceng382_25_26_202211401\RazorPagesProject\obj\Debug\net9.0\compressed\tzg5pvqx73-r4e9w2rdcm.gz
+C:\Users\bulent\Desktop\cartman\ceng382_25_26_202211401\RazorPagesProject\obj\Debug\net9.0\compressed\yirvhl79ex-wl58j5mj3v.gz
+C:\Users\bulent\Desktop\cartman\ceng382_25_26_202211401\RazorPagesProject\obj\Debug\net9.0\compressed\xj86qy9mzn-c2oey78nd0.gz
+C:\Users\bulent\Desktop\cartman\ceng382_25_26_202211401\RazorPagesProject\obj\Debug\net9.0\compressed\79v134io9p-d4r6k3f320.gz
+C:\Users\bulent\Desktop\cartman\ceng382_25_26_202211401\RazorPagesProject\obj\Debug\net9.0\compressed\6g5w7hxtas-j5mq2jizvt.gz
+C:\Users\bulent\Desktop\cartman\ceng382_25_26_202211401\RazorPagesProject\obj\Debug\net9.0\compressed\93i98z11kh-keugtjm085.gz
+C:\Users\bulent\Desktop\cartman\ceng382_25_26_202211401\RazorPagesProject\obj\Debug\net9.0\compressed\o1ta7rx2z3-nvvlpmu67g.gz
+C:\Users\bulent\Desktop\cartman\ceng382_25_26_202211401\RazorPagesProject\obj\Debug\net9.0\compressed\6thnijxedo-zub09dkrxp.gz
+C:\Users\bulent\Desktop\cartman\ceng382_25_26_202211401\RazorPagesProject\obj\Debug\net9.0\compressed\p0qkv8jegi-pj5nd1wqec.gz
+C:\Users\bulent\Desktop\cartman\ceng382_25_26_202211401\RazorPagesProject\obj\Debug\net9.0\compressed\lvr333ezyy-43atpzeawx.gz
+C:\Users\bulent\Desktop\cartman\ceng382_25_26_202211401\RazorPagesProject\obj\Debug\net9.0\compressed\gonpwkziul-v0zj4ognzu.gz
+C:\Users\bulent\Desktop\cartman\ceng382_25_26_202211401\RazorPagesProject\obj\Debug\net9.0\compressed\lavnkye3jk-ynyaa8k90p.gz
+C:\Users\bulent\Desktop\cartman\ceng382_25_26_202211401\RazorPagesProject\obj\Debug\net9.0\compressed\3uxr308ugq-hrwsygsryq.gz
+C:\Users\bulent\Desktop\cartman\ceng382_25_26_202211401\RazorPagesProject\obj\Debug\net9.0\compressed\torqmxo8rq-c63t5i9ira.gz
+C:\Users\bulent\Desktop\cartman\ceng382_25_26_202211401\RazorPagesProject\obj\Debug\net9.0\compressed\ar93prtdlf-ft3s53vfgj.gz
+C:\Users\bulent\Desktop\cartman\ceng382_25_26_202211401\RazorPagesProject\obj\Debug\net9.0\compressed\z67h4vpd5e-4094rpi4f9.gz
+C:\Users\bulent\Desktop\cartman\ceng382_25_26_202211401\RazorPagesProject\obj\Debug\net9.0\compressed\lfygxa4zib-6pdc2jztkx.gz
+C:\Users\bulent\Desktop\cartman\ceng382_25_26_202211401\RazorPagesProject\obj\Debug\net9.0\compressed\ice0o7me97-hd3gran6i8.gz
+C:\Users\bulent\Desktop\cartman\ceng382_25_26_202211401\RazorPagesProject\obj\Debug\net9.0\compressed\rnwsqm1wed-iovd86k7lj.gz
+C:\Users\bulent\Desktop\cartman\ceng382_25_26_202211401\RazorPagesProject\obj\Debug\net9.0\compressed\mncz64uela-ltid2c489k.gz
+C:\Users\bulent\Desktop\cartman\ceng382_25_26_202211401\RazorPagesProject\obj\Debug\net9.0\compressed\3kcx5fyq9n-kbrnm935zg.gz
+C:\Users\bulent\Desktop\cartman\ceng382_25_26_202211401\RazorPagesProject\obj\Debug\net9.0\compressed\ufm1vku7i8-8vyfqsqgz1.gz
+C:\Users\bulent\Desktop\cartman\ceng382_25_26_202211401\RazorPagesProject\obj\Debug\net9.0\compressed\po8x85svvi-y7v9cxd14o.gz
+C:\Users\bulent\Desktop\cartman\ceng382_25_26_202211401\RazorPagesProject\obj\Debug\net9.0\compressed\2hpyrbzm6p-u9q1upor1n.gz
+C:\Users\bulent\Desktop\cartman\ceng382_25_26_202211401\RazorPagesProject\obj\Debug\net9.0\compressed\o31ymdu3lh-h1s4sie4z3.gz
+C:\Users\bulent\Desktop\cartman\ceng382_25_26_202211401\RazorPagesProject\obj\Debug\net9.0\compressed\od726clo3u-4d85u1mtcx.gz
+C:\Users\bulent\Desktop\cartman\ceng382_25_26_202211401\RazorPagesProject\obj\Debug\net9.0\compressed\pq3tyqpesh-0j3bgjxly4.gz
+C:\Users\bulent\Desktop\cartman\ceng382_25_26_202211401\RazorPagesProject\obj\Debug\net9.0\compressed\7fzbmeeocy-03hjc8e09r.gz
+C:\Users\bulent\Desktop\cartman\ceng382_25_26_202211401\RazorPagesProject\obj\Debug\net9.0\compressed\neaun4zqzb-48y08845bh.gz
+C:\Users\bulent\Desktop\cartman\ceng382_25_26_202211401\RazorPagesProject\obj\Debug\net9.0\compressed\r5y7sfqs5n-356vix0kms.gz
+C:\Users\bulent\Desktop\cartman\ceng382_25_26_202211401\RazorPagesProject\obj\Debug\net9.0\compressed\cjix2x5amx-83jwlth58m.gz
+C:\Users\bulent\Desktop\cartman\ceng382_25_26_202211401\RazorPagesProject\obj\Debug\net9.0\compressed\bkza03a3l1-mrlpezrjn3.gz
+C:\Users\bulent\Desktop\cartman\ceng382_25_26_202211401\RazorPagesProject\obj\Debug\net9.0\compressed\pmvh0fy9ei-worgj0nhwm.gz
+C:\Users\bulent\Desktop\cartman\ceng382_25_26_202211401\RazorPagesProject\obj\Debug\net9.0\compressed\jojnz8awv1-gk0pw8i4co.gz
+C:\Users\bulent\Desktop\cartman\ceng382_25_26_202211401\RazorPagesProject\obj\Debug\net9.0\compressed\4t3c73qz37-x0q3zqp4vz.gz
+C:\Users\bulent\Desktop\cartman\ceng382_25_26_202211401\RazorPagesProject\obj\Debug\net9.0\compressed\7jbi4r6xxa-d6nrnj6jjx.gz
+C:\Users\bulent\Desktop\cartman\ceng382_25_26_202211401\RazorPagesProject\obj\Debug\net9.0\compressed\9iltijfsb8-m9qm4tazc0.gz
+C:\Users\bulent\Desktop\cartman\ceng382_25_26_202211401\RazorPagesProject\obj\Debug\net9.0\compressed\lt7r8ux4qt-ttgo8qnofa.gz
+C:\Users\bulent\Desktop\cartman\ceng382_25_26_202211401\RazorPagesProject\obj\Debug\net9.0\compressed\d1t2cipkkr-jjsuc0puko.gz
+C:\Users\bulent\Desktop\cartman\ceng382_25_26_202211401\RazorPagesProject\obj\Debug\net9.0\compressed\1gpwdd86lg-9vr69e8ynj.gz
+C:\Users\bulent\Desktop\cartman\ceng382_25_26_202211401\RazorPagesProject\obj\Debug\net9.0\compressed\8ioz9tmjoy-87fc7y1x7t.gz
+C:\Users\bulent\Desktop\cartman\ceng382_25_26_202211401\RazorPagesProject\obj\Debug\net9.0\compressed\bg0jivb02j-mlv21k5csn.gz
+C:\Users\bulent\Desktop\cartman\ceng382_25_26_202211401\RazorPagesProject\obj\Debug\net9.0\compressed\qb54eiep0q-501xcydw6r.gz
+C:\Users\bulent\Desktop\cartman\ceng382_25_26_202211401\RazorPagesProject\obj\Debug\net9.0\compressed\u4xt045i8q-501xcydw6r.gz
+C:\Users\bulent\Desktop\cartman\ceng382_25_26_202211401\RazorPagesProject\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\bulent\Desktop\cartman\ceng382_25_26_202211401\RazorPagesProject\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\bulent\Desktop\cartman\ceng382_25_26_202211401\RazorPagesProject\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\bulent\Desktop\cartman\ceng382_25_26_202211401\RazorPagesProject\obj\Debug\net9.0\staticwebassets\msbuild.RazorPagesProject.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\bulent\Desktop\cartman\ceng382_25_26_202211401\RazorPagesProject\obj\Debug\net9.0\staticwebassets\msbuild.RazorPagesProject.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\bulent\Desktop\cartman\ceng382_25_26_202211401\RazorPagesProject\obj\Debug\net9.0\staticwebassets\msbuild.build.RazorPagesProject.props
+C:\Users\bulent\Desktop\cartman\ceng382_25_26_202211401\RazorPagesProject\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.RazorPagesProject.props
+C:\Users\bulent\Desktop\cartman\ceng382_25_26_202211401\RazorPagesProject\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.RazorPagesProject.props
+C:\Users\bulent\Desktop\cartman\ceng382_25_26_202211401\RazorPagesProject\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\bulent\Desktop\cartman\ceng382_25_26_202211401\RazorPagesProject\obj\Debug\net9.0\RazorPagesProject.dll
+C:\Users\bulent\Desktop\cartman\ceng382_25_26_202211401\RazorPagesProject\obj\Debug\net9.0\refint\RazorPagesProject.dll
+C:\Users\bulent\Desktop\cartman\ceng382_25_26_202211401\RazorPagesProject\obj\Debug\net9.0\RazorPagesProject.pdb
+C:\Users\bulent\Desktop\cartman\ceng382_25_26_202211401\RazorPagesProject\obj\Debug\net9.0\RazorPagesProject.genruntimeconfig.cache
+C:\Users\bulent\Desktop\cartman\ceng382_25_26_202211401\RazorPagesProject\obj\Debug\net9.0\ref\RazorPagesProject.dll
+C:\Users\Administrator\Desktop\Homework\olması gereken\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\Administrator\Desktop\Homework\olması gereken\bin\Debug\net9.0\appsettings.json
+C:\Users\Administrator\Desktop\Homework\olması gereken\bin\Debug\net9.0\class_data.json
+C:\Users\Administrator\Desktop\Homework\olması gereken\bin\Debug\net9.0\RazorPagesProject.staticwebassets.runtime.json
+C:\Users\Administrator\Desktop\Homework\olması gereken\bin\Debug\net9.0\RazorPagesProject.staticwebassets.endpoints.json
+C:\Users\Administrator\Desktop\Homework\olması gereken\bin\Debug\net9.0\RazorPagesProject.exe
+C:\Users\Administrator\Desktop\Homework\olması gereken\bin\Debug\net9.0\RazorPagesProject.deps.json
+C:\Users\Administrator\Desktop\Homework\olması gereken\bin\Debug\net9.0\RazorPagesProject.runtimeconfig.json
+C:\Users\Administrator\Desktop\Homework\olması gereken\bin\Debug\net9.0\RazorPagesProject.dll
+C:\Users\Administrator\Desktop\Homework\olması gereken\bin\Debug\net9.0\RazorPagesProject.pdb
+C:\Users\Administrator\Desktop\Homework\olması gereken\obj\Debug\net9.0\RazorPagesProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Homework\olması gereken\obj\Debug\net9.0\RazorPagesProject.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Homework\olması gereken\obj\Debug\net9.0\RazorPagesProject.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Homework\olması gereken\obj\Debug\net9.0\RazorPagesProject.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Homework\olması gereken\obj\Debug\net9.0\RazorPagesProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Administrator\Desktop\Homework\olması gereken\obj\Debug\net9.0\RazorPagesProject.RazorAssemblyInfo.cache
+C:\Users\Administrator\Desktop\Homework\olması gereken\obj\Debug\net9.0\RazorPagesProject.RazorAssemblyInfo.cs
+C:\Users\Administrator\Desktop\Homework\olması gereken\obj\Debug\net9.0\RazorPagesProject.sourcelink.json
+C:\Users\Administrator\Desktop\Homework\olması gereken\obj\Debug\net9.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Administrator\Desktop\Homework\olması gereken\obj\Debug\net9.0\scopedcss\bundle\RazorPagesProject.styles.css
+C:\Users\Administrator\Desktop\Homework\olması gereken\obj\Debug\net9.0\scopedcss\projectbundle\RazorPagesProject.bundle.scp.css
+C:\Users\Administrator\Desktop\Homework\olması gereken\obj\Debug\net9.0\compressed\2bxjzfls5y-lugek5hnai.gz
+C:\Users\Administrator\Desktop\Homework\olması gereken\obj\Debug\net9.0\compressed\iumntnzj1n-61n19gt1b8.gz
+C:\Users\Administrator\Desktop\Homework\olması gereken\obj\Debug\net9.0\compressed\999jexk0bj-fr7q2aak1r.gz
+C:\Users\Administrator\Desktop\Homework\olması gereken\obj\Debug\net9.0\compressed\wf5222wrxs-bqjiyaj88i.gz
+C:\Users\Administrator\Desktop\Homework\olması gereken\obj\Debug\net9.0\compressed\hqr7p2bm0d-c2jlpeoesf.gz
+C:\Users\Administrator\Desktop\Homework\olması gereken\obj\Debug\net9.0\compressed\vlgv4ql13d-erw9l3u2r3.gz
+C:\Users\Administrator\Desktop\Homework\olması gereken\obj\Debug\net9.0\compressed\nk808wbyas-aexeepp0ev.gz
+C:\Users\Administrator\Desktop\Homework\olması gereken\obj\Debug\net9.0\compressed\r2vxw113wx-d7shbmvgxk.gz
+C:\Users\Administrator\Desktop\Homework\olması gereken\obj\Debug\net9.0\compressed\te5bkxrqfi-ausgxo2sd3.gz
+C:\Users\Administrator\Desktop\Homework\olması gereken\obj\Debug\net9.0\compressed\fbit1eeub9-k8d9w2qqmf.gz
+C:\Users\Administrator\Desktop\Homework\olması gereken\obj\Debug\net9.0\compressed\la9ib0zhnf-cosvhxvwiu.gz
+C:\Users\Administrator\Desktop\Homework\olması gereken\obj\Debug\net9.0\compressed\lzo9blr9rt-ub07r2b239.gz
+C:\Users\Administrator\Desktop\Homework\olması gereken\obj\Debug\net9.0\compressed\ijsrr7r1iv-fvhpjtyr6v.gz
+C:\Users\Administrator\Desktop\Homework\olması gereken\obj\Debug\net9.0\compressed\letnltjoxi-b7pk76d08c.gz
+C:\Users\Administrator\Desktop\Homework\olması gereken\obj\Debug\net9.0\compressed\277qdadepg-fsbi9cje9m.gz
+C:\Users\Administrator\Desktop\Homework\olması gereken\obj\Debug\net9.0\compressed\jtntc00j0k-rzd6atqjts.gz
+C:\Users\Administrator\Desktop\Homework\olması gereken\obj\Debug\net9.0\compressed\wq0suwir0z-ee0r1s7dh0.gz
+C:\Users\Administrator\Desktop\Homework\olması gereken\obj\Debug\net9.0\compressed\rp0dnvye19-dxx9fxp4il.gz
+C:\Users\Administrator\Desktop\Homework\olması gereken\obj\Debug\net9.0\compressed\shxstr087g-jd9uben2k1.gz
+C:\Users\Administrator\Desktop\Homework\olması gereken\obj\Debug\net9.0\compressed\vbz0ep2gsz-khv3u5hwcm.gz
+C:\Users\Administrator\Desktop\Homework\olması gereken\obj\Debug\net9.0\compressed\tzg5pvqx73-r4e9w2rdcm.gz
+C:\Users\Administrator\Desktop\Homework\olması gereken\obj\Debug\net9.0\compressed\yirvhl79ex-lcd1t2u6c8.gz
+C:\Users\Administrator\Desktop\Homework\olması gereken\obj\Debug\net9.0\compressed\xj86qy9mzn-c2oey78nd0.gz
+C:\Users\Administrator\Desktop\Homework\olması gereken\obj\Debug\net9.0\compressed\79v134io9p-tdbxkamptv.gz
+C:\Users\Administrator\Desktop\Homework\olması gereken\obj\Debug\net9.0\compressed\6g5w7hxtas-j5mq2jizvt.gz
+C:\Users\Administrator\Desktop\Homework\olması gereken\obj\Debug\net9.0\compressed\93i98z11kh-06098lyss8.gz
+C:\Users\Administrator\Desktop\Homework\olması gereken\obj\Debug\net9.0\compressed\o1ta7rx2z3-nvvlpmu67g.gz
+C:\Users\Administrator\Desktop\Homework\olması gereken\obj\Debug\net9.0\compressed\6thnijxedo-s35ty4nyc5.gz
+C:\Users\Administrator\Desktop\Homework\olması gereken\obj\Debug\net9.0\compressed\p0qkv8jegi-pj5nd1wqec.gz
+C:\Users\Administrator\Desktop\Homework\olması gereken\obj\Debug\net9.0\compressed\lvr333ezyy-46ein0sx1k.gz
+C:\Users\Administrator\Desktop\Homework\olması gereken\obj\Debug\net9.0\compressed\gonpwkziul-v0zj4ognzu.gz
+C:\Users\Administrator\Desktop\Homework\olması gereken\obj\Debug\net9.0\compressed\lavnkye3jk-37tfw0ft22.gz
+C:\Users\Administrator\Desktop\Homework\olması gereken\obj\Debug\net9.0\compressed\3uxr308ugq-hrwsygsryq.gz
+C:\Users\Administrator\Desktop\Homework\olması gereken\obj\Debug\net9.0\compressed\torqmxo8rq-pk9g2wxc8p.gz
+C:\Users\Administrator\Desktop\Homework\olması gereken\obj\Debug\net9.0\compressed\ar93prtdlf-ft3s53vfgj.gz
+C:\Users\Administrator\Desktop\Homework\olması gereken\obj\Debug\net9.0\compressed\z67h4vpd5e-6cfz1n2cew.gz
+C:\Users\Administrator\Desktop\Homework\olması gereken\obj\Debug\net9.0\compressed\lfygxa4zib-6pdc2jztkx.gz
+C:\Users\Administrator\Desktop\Homework\olması gereken\obj\Debug\net9.0\compressed\ice0o7me97-493y06b0oq.gz
+C:\Users\Administrator\Desktop\Homework\olması gereken\obj\Debug\net9.0\compressed\rnwsqm1wed-iovd86k7lj.gz
+C:\Users\Administrator\Desktop\Homework\olması gereken\obj\Debug\net9.0\compressed\mncz64uela-vr1egmr9el.gz
+C:\Users\Administrator\Desktop\Homework\olması gereken\obj\Debug\net9.0\compressed\3kcx5fyq9n-kbrnm935zg.gz
+C:\Users\Administrator\Desktop\Homework\olması gereken\obj\Debug\net9.0\compressed\ufm1vku7i8-jj8uyg4cgr.gz
+C:\Users\Administrator\Desktop\Homework\olması gereken\obj\Debug\net9.0\compressed\po8x85svvi-y7v9cxd14o.gz
+C:\Users\Administrator\Desktop\Homework\olması gereken\obj\Debug\net9.0\compressed\2hpyrbzm6p-notf2xhcfb.gz
+C:\Users\Administrator\Desktop\Homework\olması gereken\obj\Debug\net9.0\compressed\o31ymdu3lh-h1s4sie4z3.gz
+C:\Users\Administrator\Desktop\Homework\olması gereken\obj\Debug\net9.0\compressed\od726clo3u-63fj8s7r0e.gz
+C:\Users\Administrator\Desktop\Homework\olması gereken\obj\Debug\net9.0\compressed\pq3tyqpesh-0j3bgjxly4.gz
+C:\Users\Administrator\Desktop\Homework\olması gereken\obj\Debug\net9.0\compressed\7fzbmeeocy-47otxtyo56.gz
+C:\Users\Administrator\Desktop\Homework\olması gereken\obj\Debug\net9.0\compressed\neaun4zqzb-4v8eqarkd7.gz
+C:\Users\Administrator\Desktop\Homework\olması gereken\obj\Debug\net9.0\compressed\r5y7sfqs5n-l3n5xuwxn8.gz
+C:\Users\Administrator\Desktop\Homework\olması gereken\obj\Debug\net9.0\compressed\cjix2x5amx-ilo7uva0vt.gz
+C:\Users\Administrator\Desktop\Homework\olması gereken\obj\Debug\net9.0\compressed\bkza03a3l1-qlccset4i1.gz
+C:\Users\Administrator\Desktop\Homework\olması gereken\obj\Debug\net9.0\compressed\pmvh0fy9ei-lzl9nlhx6b.gz
+C:\Users\Administrator\Desktop\Homework\olması gereken\obj\Debug\net9.0\compressed\jojnz8awv1-ag7o75518u.gz
+C:\Users\Administrator\Desktop\Homework\olması gereken\obj\Debug\net9.0\compressed\4t3c73qz37-xzw0cte36n.gz
+C:\Users\Administrator\Desktop\Homework\olması gereken\obj\Debug\net9.0\compressed\7jbi4r6xxa-0i3buxo5is.gz
+C:\Users\Administrator\Desktop\Homework\olması gereken\obj\Debug\net9.0\compressed\9iltijfsb8-o1o13a6vjx.gz
+C:\Users\Administrator\Desktop\Homework\olması gereken\obj\Debug\net9.0\compressed\lt7r8ux4qt-ttgo8qnofa.gz
+C:\Users\Administrator\Desktop\Homework\olması gereken\obj\Debug\net9.0\compressed\d1t2cipkkr-2z0ns9nrw6.gz
+C:\Users\Administrator\Desktop\Homework\olması gereken\obj\Debug\net9.0\compressed\1gpwdd86lg-muycvpuwrr.gz
+C:\Users\Administrator\Desktop\Homework\olması gereken\obj\Debug\net9.0\compressed\8ioz9tmjoy-87fc7y1x7t.gz
+C:\Users\Administrator\Desktop\Homework\olması gereken\obj\Debug\net9.0\compressed\bg0jivb02j-jfsiqqwiad.gz
+C:\Users\Administrator\Desktop\Homework\olması gereken\obj\Debug\net9.0\compressed\qb54eiep0q-501xcydw6r.gz
+C:\Users\Administrator\Desktop\Homework\olması gereken\obj\Debug\net9.0\compressed\u4xt045i8q-501xcydw6r.gz
+C:\Users\Administrator\Desktop\Homework\olması gereken\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Administrator\Desktop\Homework\olması gereken\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\Administrator\Desktop\Homework\olması gereken\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\Administrator\Desktop\Homework\olması gereken\obj\Debug\net9.0\staticwebassets\msbuild.RazorPagesProject.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Administrator\Desktop\Homework\olması gereken\obj\Debug\net9.0\staticwebassets\msbuild.RazorPagesProject.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Administrator\Desktop\Homework\olması gereken\obj\Debug\net9.0\staticwebassets\msbuild.build.RazorPagesProject.props
+C:\Users\Administrator\Desktop\Homework\olması gereken\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.RazorPagesProject.props
+C:\Users\Administrator\Desktop\Homework\olması gereken\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.RazorPagesProject.props
+C:\Users\Administrator\Desktop\Homework\olması gereken\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\Administrator\Desktop\Homework\olması gereken\obj\Debug\net9.0\RazorPagesProject.dll
+C:\Users\Administrator\Desktop\Homework\olması gereken\obj\Debug\net9.0\refint\RazorPagesProject.dll
+C:\Users\Administrator\Desktop\Homework\olması gereken\obj\Debug\net9.0\RazorPagesProject.pdb
+C:\Users\Administrator\Desktop\Homework\olması gereken\obj\Debug\net9.0\RazorPagesProject.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\Homework\olması gereken\obj\Debug\net9.0\ref\RazorPagesProject.dll
+C:\Users\Administrator\Desktop\Homework\RazorPagesProject\obj\Debug\net9.0\compressed\999jexk0bj-fr7q2aak1r.gz
+C:\Users\Administrator\Desktop\Homework\RazorPagesProject\obj\Debug\net9.0\compressed\r5y7sfqs5n-l3n5xuwxn8.gz
+C:\Users\Administrator\Desktop\Homework\RazorPagesProject\obj\Debug\net9.0\compressed\cjix2x5amx-ilo7uva0vt.gz
+C:\Users\Administrator\Desktop\Homework\RazorPagesProject\obj\Debug\net9.0\compressed\bkza03a3l1-qlccset4i1.gz
+C:\Users\Administrator\Desktop\Homework\RazorPagesProject\obj\Debug\net9.0\compressed\4t3c73qz37-xzw0cte36n.gz
+C:\Users\Administrator\Desktop\Homework\RazorPagesProject\obj\Debug\net9.0\compressed\bg0jivb02j-jfsiqqwiad.gz
+C:\Users\Administrator\Desktop\Homework\RazorPagesProject\obj\Debug\net9.0\compressed\2bxjzfls5y-fggtawvfzh.gz
+C:\Users\kutal\OneDrive\Masaüstü\aaa\ceng382_25_26_202211401-week7\RazorPagesProject\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\kutal\OneDrive\Masaüstü\aaa\ceng382_25_26_202211401-week7\RazorPagesProject\bin\Debug\net9.0\appsettings.json
+C:\Users\kutal\OneDrive\Masaüstü\aaa\ceng382_25_26_202211401-week7\RazorPagesProject\bin\Debug\net9.0\class_data.json
+C:\Users\kutal\OneDrive\Masaüstü\aaa\ceng382_25_26_202211401-week7\RazorPagesProject\bin\Debug\net9.0\RazorPagesProject.staticwebassets.runtime.json
+C:\Users\kutal\OneDrive\Masaüstü\aaa\ceng382_25_26_202211401-week7\RazorPagesProject\bin\Debug\net9.0\RazorPagesProject.staticwebassets.endpoints.json
+C:\Users\kutal\OneDrive\Masaüstü\aaa\ceng382_25_26_202211401-week7\RazorPagesProject\bin\Debug\net9.0\RazorPagesProject.exe
+C:\Users\kutal\OneDrive\Masaüstü\aaa\ceng382_25_26_202211401-week7\RazorPagesProject\bin\Debug\net9.0\RazorPagesProject.deps.json
+C:\Users\kutal\OneDrive\Masaüstü\aaa\ceng382_25_26_202211401-week7\RazorPagesProject\bin\Debug\net9.0\RazorPagesProject.runtimeconfig.json
+C:\Users\kutal\OneDrive\Masaüstü\aaa\ceng382_25_26_202211401-week7\RazorPagesProject\bin\Debug\net9.0\RazorPagesProject.dll
+C:\Users\kutal\OneDrive\Masaüstü\aaa\ceng382_25_26_202211401-week7\RazorPagesProject\bin\Debug\net9.0\RazorPagesProject.pdb
+C:\Users\kutal\OneDrive\Masaüstü\aaa\ceng382_25_26_202211401-week7\RazorPagesProject\obj\Debug\net9.0\RazorPagesProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kutal\OneDrive\Masaüstü\aaa\ceng382_25_26_202211401-week7\RazorPagesProject\obj\Debug\net9.0\RazorPagesProject.AssemblyInfoInputs.cache
+C:\Users\kutal\OneDrive\Masaüstü\aaa\ceng382_25_26_202211401-week7\RazorPagesProject\obj\Debug\net9.0\RazorPagesProject.AssemblyInfo.cs
+C:\Users\kutal\OneDrive\Masaüstü\aaa\ceng382_25_26_202211401-week7\RazorPagesProject\obj\Debug\net9.0\RazorPagesProject.csproj.CoreCompileInputs.cache
+C:\Users\kutal\OneDrive\Masaüstü\aaa\ceng382_25_26_202211401-week7\RazorPagesProject\obj\Debug\net9.0\RazorPagesProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kutal\OneDrive\Masaüstü\aaa\ceng382_25_26_202211401-week7\RazorPagesProject\obj\Debug\net9.0\RazorPagesProject.RazorAssemblyInfo.cache
+C:\Users\kutal\OneDrive\Masaüstü\aaa\ceng382_25_26_202211401-week7\RazorPagesProject\obj\Debug\net9.0\RazorPagesProject.RazorAssemblyInfo.cs
+C:\Users\kutal\OneDrive\Masaüstü\aaa\ceng382_25_26_202211401-week7\RazorPagesProject\obj\Debug\net9.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\kutal\OneDrive\Masaüstü\aaa\ceng382_25_26_202211401-week7\RazorPagesProject\obj\Debug\net9.0\scopedcss\bundle\RazorPagesProject.styles.css
+C:\Users\kutal\OneDrive\Masaüstü\aaa\ceng382_25_26_202211401-week7\RazorPagesProject\obj\Debug\net9.0\scopedcss\projectbundle\RazorPagesProject.bundle.scp.css
+C:\Users\kutal\OneDrive\Masaüstü\aaa\ceng382_25_26_202211401-week7\RazorPagesProject\obj\Debug\net9.0\compressed\iumntnzj1n-61n19gt1b8.gz
+C:\Users\kutal\OneDrive\Masaüstü\aaa\ceng382_25_26_202211401-week7\RazorPagesProject\obj\Debug\net9.0\compressed\999jexk0bj-fr7q2aak1r.gz
+C:\Users\kutal\OneDrive\Masaüstü\aaa\ceng382_25_26_202211401-week7\RazorPagesProject\obj\Debug\net9.0\compressed\wf5222wrxs-bqjiyaj88i.gz
+C:\Users\kutal\OneDrive\Masaüstü\aaa\ceng382_25_26_202211401-week7\RazorPagesProject\obj\Debug\net9.0\compressed\hqr7p2bm0d-c2jlpeoesf.gz
+C:\Users\kutal\OneDrive\Masaüstü\aaa\ceng382_25_26_202211401-week7\RazorPagesProject\obj\Debug\net9.0\compressed\vlgv4ql13d-erw9l3u2r3.gz
+C:\Users\kutal\OneDrive\Masaüstü\aaa\ceng382_25_26_202211401-week7\RazorPagesProject\obj\Debug\net9.0\compressed\nk808wbyas-aexeepp0ev.gz
+C:\Users\kutal\OneDrive\Masaüstü\aaa\ceng382_25_26_202211401-week7\RazorPagesProject\obj\Debug\net9.0\compressed\r2vxw113wx-d7shbmvgxk.gz
+C:\Users\kutal\OneDrive\Masaüstü\aaa\ceng382_25_26_202211401-week7\RazorPagesProject\obj\Debug\net9.0\compressed\te5bkxrqfi-ausgxo2sd3.gz
+C:\Users\kutal\OneDrive\Masaüstü\aaa\ceng382_25_26_202211401-week7\RazorPagesProject\obj\Debug\net9.0\compressed\fbit1eeub9-k8d9w2qqmf.gz
+C:\Users\kutal\OneDrive\Masaüstü\aaa\ceng382_25_26_202211401-week7\RazorPagesProject\obj\Debug\net9.0\compressed\la9ib0zhnf-cosvhxvwiu.gz
+C:\Users\kutal\OneDrive\Masaüstü\aaa\ceng382_25_26_202211401-week7\RazorPagesProject\obj\Debug\net9.0\compressed\lzo9blr9rt-ub07r2b239.gz
+C:\Users\kutal\OneDrive\Masaüstü\aaa\ceng382_25_26_202211401-week7\RazorPagesProject\obj\Debug\net9.0\compressed\ijsrr7r1iv-fvhpjtyr6v.gz
+C:\Users\kutal\OneDrive\Masaüstü\aaa\ceng382_25_26_202211401-week7\RazorPagesProject\obj\Debug\net9.0\compressed\letnltjoxi-b7pk76d08c.gz
+C:\Users\kutal\OneDrive\Masaüstü\aaa\ceng382_25_26_202211401-week7\RazorPagesProject\obj\Debug\net9.0\compressed\277qdadepg-fsbi9cje9m.gz
+C:\Users\kutal\OneDrive\Masaüstü\aaa\ceng382_25_26_202211401-week7\RazorPagesProject\obj\Debug\net9.0\compressed\jtntc00j0k-rzd6atqjts.gz
+C:\Users\kutal\OneDrive\Masaüstü\aaa\ceng382_25_26_202211401-week7\RazorPagesProject\obj\Debug\net9.0\compressed\wq0suwir0z-ee0r1s7dh0.gz
+C:\Users\kutal\OneDrive\Masaüstü\aaa\ceng382_25_26_202211401-week7\RazorPagesProject\obj\Debug\net9.0\compressed\rp0dnvye19-dxx9fxp4il.gz
+C:\Users\kutal\OneDrive\Masaüstü\aaa\ceng382_25_26_202211401-week7\RazorPagesProject\obj\Debug\net9.0\compressed\shxstr087g-jd9uben2k1.gz
+C:\Users\kutal\OneDrive\Masaüstü\aaa\ceng382_25_26_202211401-week7\RazorPagesProject\obj\Debug\net9.0\compressed\vbz0ep2gsz-khv3u5hwcm.gz
+C:\Users\kutal\OneDrive\Masaüstü\aaa\ceng382_25_26_202211401-week7\RazorPagesProject\obj\Debug\net9.0\compressed\tzg5pvqx73-r4e9w2rdcm.gz
+C:\Users\kutal\OneDrive\Masaüstü\aaa\ceng382_25_26_202211401-week7\RazorPagesProject\obj\Debug\net9.0\compressed\yirvhl79ex-lcd1t2u6c8.gz
+C:\Users\kutal\OneDrive\Masaüstü\aaa\ceng382_25_26_202211401-week7\RazorPagesProject\obj\Debug\net9.0\compressed\xj86qy9mzn-c2oey78nd0.gz
+C:\Users\kutal\OneDrive\Masaüstü\aaa\ceng382_25_26_202211401-week7\RazorPagesProject\obj\Debug\net9.0\compressed\79v134io9p-tdbxkamptv.gz
+C:\Users\kutal\OneDrive\Masaüstü\aaa\ceng382_25_26_202211401-week7\RazorPagesProject\obj\Debug\net9.0\compressed\6g5w7hxtas-j5mq2jizvt.gz
+C:\Users\kutal\OneDrive\Masaüstü\aaa\ceng382_25_26_202211401-week7\RazorPagesProject\obj\Debug\net9.0\compressed\93i98z11kh-06098lyss8.gz
+C:\Users\kutal\OneDrive\Masaüstü\aaa\ceng382_25_26_202211401-week7\RazorPagesProject\obj\Debug\net9.0\compressed\o1ta7rx2z3-nvvlpmu67g.gz
+C:\Users\kutal\OneDrive\Masaüstü\aaa\ceng382_25_26_202211401-week7\RazorPagesProject\obj\Debug\net9.0\compressed\6thnijxedo-s35ty4nyc5.gz
+C:\Users\kutal\OneDrive\Masaüstü\aaa\ceng382_25_26_202211401-week7\RazorPagesProject\obj\Debug\net9.0\compressed\p0qkv8jegi-pj5nd1wqec.gz
+C:\Users\kutal\OneDrive\Masaüstü\aaa\ceng382_25_26_202211401-week7\RazorPagesProject\obj\Debug\net9.0\compressed\lvr333ezyy-46ein0sx1k.gz
+C:\Users\kutal\OneDrive\Masaüstü\aaa\ceng382_25_26_202211401-week7\RazorPagesProject\obj\Debug\net9.0\compressed\gonpwkziul-v0zj4ognzu.gz
+C:\Users\kutal\OneDrive\Masaüstü\aaa\ceng382_25_26_202211401-week7\RazorPagesProject\obj\Debug\net9.0\compressed\lavnkye3jk-37tfw0ft22.gz
+C:\Users\kutal\OneDrive\Masaüstü\aaa\ceng382_25_26_202211401-week7\RazorPagesProject\obj\Debug\net9.0\compressed\3uxr308ugq-hrwsygsryq.gz
+C:\Users\kutal\OneDrive\Masaüstü\aaa\ceng382_25_26_202211401-week7\RazorPagesProject\obj\Debug\net9.0\compressed\torqmxo8rq-pk9g2wxc8p.gz
+C:\Users\kutal\OneDrive\Masaüstü\aaa\ceng382_25_26_202211401-week7\RazorPagesProject\obj\Debug\net9.0\compressed\ar93prtdlf-ft3s53vfgj.gz
+C:\Users\kutal\OneDrive\Masaüstü\aaa\ceng382_25_26_202211401-week7\RazorPagesProject\obj\Debug\net9.0\compressed\z67h4vpd5e-6cfz1n2cew.gz
+C:\Users\kutal\OneDrive\Masaüstü\aaa\ceng382_25_26_202211401-week7\RazorPagesProject\obj\Debug\net9.0\compressed\lfygxa4zib-6pdc2jztkx.gz
+C:\Users\kutal\OneDrive\Masaüstü\aaa\ceng382_25_26_202211401-week7\RazorPagesProject\obj\Debug\net9.0\compressed\ice0o7me97-493y06b0oq.gz
+C:\Users\kutal\OneDrive\Masaüstü\aaa\ceng382_25_26_202211401-week7\RazorPagesProject\obj\Debug\net9.0\compressed\rnwsqm1wed-iovd86k7lj.gz
+C:\Users\kutal\OneDrive\Masaüstü\aaa\ceng382_25_26_202211401-week7\RazorPagesProject\obj\Debug\net9.0\compressed\mncz64uela-vr1egmr9el.gz
+C:\Users\kutal\OneDrive\Masaüstü\aaa\ceng382_25_26_202211401-week7\RazorPagesProject\obj\Debug\net9.0\compressed\3kcx5fyq9n-kbrnm935zg.gz
+C:\Users\kutal\OneDrive\Masaüstü\aaa\ceng382_25_26_202211401-week7\RazorPagesProject\obj\Debug\net9.0\compressed\ufm1vku7i8-jj8uyg4cgr.gz
+C:\Users\kutal\OneDrive\Masaüstü\aaa\ceng382_25_26_202211401-week7\RazorPagesProject\obj\Debug\net9.0\compressed\po8x85svvi-y7v9cxd14o.gz
+C:\Users\kutal\OneDrive\Masaüstü\aaa\ceng382_25_26_202211401-week7\RazorPagesProject\obj\Debug\net9.0\compressed\2hpyrbzm6p-notf2xhcfb.gz
+C:\Users\kutal\OneDrive\Masaüstü\aaa\ceng382_25_26_202211401-week7\RazorPagesProject\obj\Debug\net9.0\compressed\o31ymdu3lh-h1s4sie4z3.gz
+C:\Users\kutal\OneDrive\Masaüstü\aaa\ceng382_25_26_202211401-week7\RazorPagesProject\obj\Debug\net9.0\compressed\od726clo3u-63fj8s7r0e.gz
+C:\Users\kutal\OneDrive\Masaüstü\aaa\ceng382_25_26_202211401-week7\RazorPagesProject\obj\Debug\net9.0\compressed\pq3tyqpesh-0j3bgjxly4.gz
+C:\Users\kutal\OneDrive\Masaüstü\aaa\ceng382_25_26_202211401-week7\RazorPagesProject\obj\Debug\net9.0\compressed\7fzbmeeocy-47otxtyo56.gz
+C:\Users\kutal\OneDrive\Masaüstü\aaa\ceng382_25_26_202211401-week7\RazorPagesProject\obj\Debug\net9.0\compressed\neaun4zqzb-4v8eqarkd7.gz
+C:\Users\kutal\OneDrive\Masaüstü\aaa\ceng382_25_26_202211401-week7\RazorPagesProject\obj\Debug\net9.0\compressed\r5y7sfqs5n-l3n5xuwxn8.gz
+C:\Users\kutal\OneDrive\Masaüstü\aaa\ceng382_25_26_202211401-week7\RazorPagesProject\obj\Debug\net9.0\compressed\cjix2x5amx-ilo7uva0vt.gz
+C:\Users\kutal\OneDrive\Masaüstü\aaa\ceng382_25_26_202211401-week7\RazorPagesProject\obj\Debug\net9.0\compressed\bkza03a3l1-qlccset4i1.gz
+C:\Users\kutal\OneDrive\Masaüstü\aaa\ceng382_25_26_202211401-week7\RazorPagesProject\obj\Debug\net9.0\compressed\pmvh0fy9ei-lzl9nlhx6b.gz
+C:\Users\kutal\OneDrive\Masaüstü\aaa\ceng382_25_26_202211401-week7\RazorPagesProject\obj\Debug\net9.0\compressed\jojnz8awv1-ag7o75518u.gz
+C:\Users\kutal\OneDrive\Masaüstü\aaa\ceng382_25_26_202211401-week7\RazorPagesProject\obj\Debug\net9.0\compressed\4t3c73qz37-xzw0cte36n.gz
+C:\Users\kutal\OneDrive\Masaüstü\aaa\ceng382_25_26_202211401-week7\RazorPagesProject\obj\Debug\net9.0\compressed\7jbi4r6xxa-0i3buxo5is.gz
+C:\Users\kutal\OneDrive\Masaüstü\aaa\ceng382_25_26_202211401-week7\RazorPagesProject\obj\Debug\net9.0\compressed\9iltijfsb8-o1o13a6vjx.gz
+C:\Users\kutal\OneDrive\Masaüstü\aaa\ceng382_25_26_202211401-week7\RazorPagesProject\obj\Debug\net9.0\compressed\lt7r8ux4qt-ttgo8qnofa.gz
+C:\Users\kutal\OneDrive\Masaüstü\aaa\ceng382_25_26_202211401-week7\RazorPagesProject\obj\Debug\net9.0\compressed\d1t2cipkkr-2z0ns9nrw6.gz
+C:\Users\kutal\OneDrive\Masaüstü\aaa\ceng382_25_26_202211401-week7\RazorPagesProject\obj\Debug\net9.0\compressed\1gpwdd86lg-muycvpuwrr.gz
+C:\Users\kutal\OneDrive\Masaüstü\aaa\ceng382_25_26_202211401-week7\RazorPagesProject\obj\Debug\net9.0\compressed\8ioz9tmjoy-87fc7y1x7t.gz
+C:\Users\kutal\OneDrive\Masaüstü\aaa\ceng382_25_26_202211401-week7\RazorPagesProject\obj\Debug\net9.0\compressed\bg0jivb02j-jfsiqqwiad.gz
+C:\Users\kutal\OneDrive\Masaüstü\aaa\ceng382_25_26_202211401-week7\RazorPagesProject\obj\Debug\net9.0\compressed\qb54eiep0q-501xcydw6r.gz
+C:\Users\kutal\OneDrive\Masaüstü\aaa\ceng382_25_26_202211401-week7\RazorPagesProject\obj\Debug\net9.0\compressed\u4xt045i8q-501xcydw6r.gz
+C:\Users\kutal\OneDrive\Masaüstü\aaa\ceng382_25_26_202211401-week7\RazorPagesProject\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\kutal\OneDrive\Masaüstü\aaa\ceng382_25_26_202211401-week7\RazorPagesProject\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\kutal\OneDrive\Masaüstü\aaa\ceng382_25_26_202211401-week7\RazorPagesProject\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\kutal\OneDrive\Masaüstü\aaa\ceng382_25_26_202211401-week7\RazorPagesProject\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\kutal\OneDrive\Masaüstü\aaa\ceng382_25_26_202211401-week7\RazorPagesProject\obj\Debug\net9.0\RazorPagesProject.dll
+C:\Users\kutal\OneDrive\Masaüstü\aaa\ceng382_25_26_202211401-week7\RazorPagesProject\obj\Debug\net9.0\refint\RazorPagesProject.dll
+C:\Users\kutal\OneDrive\Masaüstü\aaa\ceng382_25_26_202211401-week7\RazorPagesProject\obj\Debug\net9.0\RazorPagesProject.pdb
+C:\Users\kutal\OneDrive\Masaüstü\aaa\ceng382_25_26_202211401-week7\RazorPagesProject\obj\Debug\net9.0\RazorPagesProject.genruntimeconfig.cache
+C:\Users\kutal\OneDrive\Masaüstü\aaa\ceng382_25_26_202211401-week7\RazorPagesProject\obj\Debug\net9.0\ref\RazorPagesProject.dll
+C:\Users\kutal\OneDrive\Masaüstü\aaa\ceng382_25_26_202211401-week7\RazorPagesProject\obj\Debug\net9.0\compressed\2bxjzfls5y-xm4o4k38hs.gz

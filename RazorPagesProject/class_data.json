@@ -1,0 +1,590 @@
+[
+  {
+    "Id": 3,
+    "ClassName": "English - Advanced",
+    "StudentCount": 24,
+    "Description": "Advanced topics and applications"
+  },
+  {
+    "Id": 4,
+    "ClassName": "Art - Beginner",
+    "StudentCount": 15,
+    "Description": "Comprehensive study of the subject"
+  },
+  {
+    "Id": 5,
+    "ClassName": "Math - Intermediate",
+    "StudentCount": 10,
+    "Description": "Theoretical foundations"
+  },
+  {
+    "Id": 6,
+    "ClassName": "English - Intermediate",
+    "StudentCount": 29,
+    "Description": "Introduction to basic concepts"
+  },
+  {
+    "Id": 7,
+    "ClassName": "Math - Advanced",
+    "StudentCount": 15,
+    "Description": "Introduction to basic concepts"
+  },
+  {
+    "Id": 8,
+    "ClassName": "Art - Intermediate",
+    "StudentCount": 10,
+    "Description": "Introduction to basic concepts"
+  },
+  {
+    "Id": 9,
+    "ClassName": "English - Advanced",
+    "StudentCount": 27,
+    "Description": "Theoretical foundations"
+  },
+  {
+    "Id": 10,
+    "ClassName": "Physical Education - Beginner",
+    "StudentCount": 19,
+    "Description": "Comprehensive study of the subject"
+  },
+  {
+    "Id": 11,
+    "ClassName": "Art - Beginner",
+    "StudentCount": 10,
+    "Description": "Comprehensive study of the subject"
+  },
+  {
+    "Id": 12,
+    "ClassName": "Science - Advanced",
+    "StudentCount": 23,
+    "Description": "Advanced topics and applications"
+  },
+  {
+    "Id": 13,
+    "ClassName": "Music - Beginner",
+    "StudentCount": 15,
+    "Description": "Theoretical foundations"
+  },
+  {
+    "Id": 14,
+    "ClassName": "Art - Beginner",
+    "StudentCount": 23,
+    "Description": "Introduction to basic concepts"
+  },
+  {
+    "Id": 15,
+    "ClassName": "Physical Education - Advanced",
+    "StudentCount": 16,
+    "Description": "Theoretical foundations"
+  },
+  {
+    "Id": 16,
+    "ClassName": "History - Beginner",
+    "StudentCount": 22,
+    "Description": "Theoretical foundations"
+  },
+  {
+    "Id": 17,
+    "ClassName": "Science - Intermediate",
+    "StudentCount": 22,
+    "Description": "Comprehensive study of the subject"
+  },
+  {
+    "Id": 18,
+    "ClassName": "Art - Advanced",
+    "StudentCount": 13,
+    "Description": "Practical hands-on learning"
+  },
+  {
+    "Id": 19,
+    "ClassName": "Art - Beginner",
+    "StudentCount": 10,
+    "Description": "Introduction to basic concepts"
+  },
+  {
+    "Id": 20,
+    "ClassName": "History - Advanced",
+    "StudentCount": 25,
+    "Description": "Advanced topics and applications"
+  },
+  {
+    "Id": 21,
+    "ClassName": "History - Beginner",
+    "StudentCount": 30,
+    "Description": "Comprehensive study of the subject"
+  },
+  {
+    "Id": 22,
+    "ClassName": "English - Beginner",
+    "StudentCount": 30,
+    "Description": "Introduction to basic concepts"
+  },
+  {
+    "Id": 23,
+    "ClassName": "English - Intermediate",
+    "StudentCount": 15,
+    "Description": "Theoretical foundations"
+  },
+  {
+    "Id": 24,
+    "ClassName": "Math - Beginner",
+    "StudentCount": 14,
+    "Description": "Advanced topics and applications"
+  },
+  {
+    "Id": 25,
+    "ClassName": "Music - Beginner",
+    "StudentCount": 28,
+    "Description": "Theoretical foundations"
+  },
+  {
+    "Id": 26,
+    "ClassName": "Art - Beginner",
+    "StudentCount": 18,
+    "Description": "Theoretical foundations"
+  },
+  {
+    "Id": 27,
+    "ClassName": "Math - Intermediate",
+    "StudentCount": 20,
+    "Description": "Comprehensive study of the subject"
+  },
+  {
+    "Id": 28,
+    "ClassName": "Physical Education - Beginner",
+    "StudentCount": 10,
+    "Description": "Practical hands-on learning"
+  },
+  {
+    "Id": 29,
+    "ClassName": "History - Beginner",
+    "StudentCount": 19,
+    "Description": "Theoretical foundations"
+  },
+  {
+    "Id": 30,
+    "ClassName": "Art - Beginner",
+    "StudentCount": 15,
+    "Description": "Advanced topics and applications"
+  },
+  {
+    "Id": 31,
+    "ClassName": "Physical Education - Advanced",
+    "StudentCount": 15,
+    "Description": "Practical hands-on learning"
+  },
+  {
+    "Id": 32,
+    "ClassName": "Math - Advanced",
+    "StudentCount": 25,
+    "Description": "Introduction to basic concepts"
+  },
+  {
+    "Id": 33,
+    "ClassName": "Art - Advanced",
+    "StudentCount": 12,
+    "Description": "Practical hands-on learning"
+  },
+  {
+    "Id": 34,
+    "ClassName": "Physical Education - Beginner",
+    "StudentCount": 17,
+    "Description": "Practical hands-on learning"
+  },
+  {
+    "Id": 35,
+    "ClassName": "Music - Beginner",
+    "StudentCount": 28,
+    "Description": "Introduction to basic concepts"
+  },
+  {
+    "Id": 36,
+    "ClassName": "Art - Beginner",
+    "StudentCount": 20,
+    "Description": "Theoretical foundations"
+  },
+  {
+    "Id": 37,
+    "ClassName": "Music - Advanced",
+    "StudentCount": 25,
+    "Description": "Advanced topics and applications"
+  },
+  {
+    "Id": 38,
+    "ClassName": "Art - Intermediate",
+    "StudentCount": 18,
+    "Description": "Theoretical foundations"
+  },
+  {
+    "Id": 39,
+    "ClassName": "Math - Beginner",
+    "StudentCount": 23,
+    "Description": "Comprehensive study of the subject"
+  },
+  {
+    "Id": 40,
+    "ClassName": "Science - Intermediate",
+    "StudentCount": 16,
+    "Description": "Comprehensive study of the subject"
+  },
+  {
+    "Id": 41,
+    "ClassName": "History - Intermediate",
+    "StudentCount": 15,
+    "Description": "Introduction to basic concepts"
+  },
+  {
+    "Id": 42,
+    "ClassName": "History - Advanced",
+    "StudentCount": 16,
+    "Description": "Introduction to basic concepts"
+  },
+  {
+    "Id": 43,
+    "ClassName": "Art - Beginner",
+    "StudentCount": 15,
+    "Description": "Practical hands-on learning"
+  },
+  {
+    "Id": 44,
+    "ClassName": "Science - Beginner",
+    "StudentCount": 16,
+    "Description": "Introduction to basic concepts"
+  },
+  {
+    "Id": 45,
+    "ClassName": "Math - Beginner",
+    "StudentCount": 25,
+    "Description": "Comprehensive study of the subject"
+  },
+  {
+    "Id": 46,
+    "ClassName": "Art - Beginner",
+    "StudentCount": 18,
+    "Description": "Advanced topics and applications"
+  },
+  {
+    "Id": 47,
+    "ClassName": "Math - Intermediate",
+    "StudentCount": 26,
+    "Description": "Theoretical foundations"
+  },
+  {
+    "Id": 48,
+    "ClassName": "Science - Intermediate",
+    "StudentCount": 23,
+    "Description": "Practical hands-on learning"
+  },
+  {
+    "Id": 49,
+    "ClassName": "Physical Education - Intermediate",
+    "StudentCount": 13,
+    "Description": "Advanced topics and applications"
+  },
+  {
+    "Id": 50,
+    "ClassName": "Science - Intermediate",
+    "StudentCount": 19,
+    "Description": "Practical hands-on learning"
+  },
+  {
+    "Id": 51,
+    "ClassName": "Math - Intermediate",
+    "StudentCount": 23,
+    "Description": "Introduction to basic concepts"
+  },
+  {
+    "Id": 52,
+    "ClassName": "Art - Advanced",
+    "StudentCount": 18,
+    "Description": "Introduction to basic concepts"
+  },
+  {
+    "Id": 53,
+    "ClassName": "Math - Beginner",
+    "StudentCount": 18,
+    "Description": "Advanced topics and applications"
+  },
+  {
+    "Id": 54,
+    "ClassName": "Math - Intermediate",
+    "StudentCount": 14,
+    "Description": "Advanced topics and applications"
+  },
+  {
+    "Id": 55,
+    "ClassName": "Art - Advanced",
+    "StudentCount": 13,
+    "Description": "Introduction to basic concepts"
+  },
+  {
+    "Id": 56,
+    "ClassName": "Music - Intermediate",
+    "StudentCount": 23,
+    "Description": "Advanced topics and applications"
+  },
+  {
+    "Id": 57,
+    "ClassName": "Music - Intermediate",
+    "StudentCount": 13,
+    "Description": "Practical hands-on learning"
+  },
+  {
+    "Id": 58,
+    "ClassName": "Physical Education - Advanced",
+    "StudentCount": 28,
+    "Description": "Theoretical foundations"
+  },
+  {
+    "Id": 59,
+    "ClassName": "Physical Education - Advanced",
+    "StudentCount": 16,
+    "Description": "Advanced topics and applications"
+  },
+  {
+    "Id": 60,
+    "ClassName": "History - Beginner",
+    "StudentCount": 18,
+    "Description": "Advanced topics and applications"
+  },
+  {
+    "Id": 61,
+    "ClassName": "History - Intermediate",
+    "StudentCount": 17,
+    "Description": "Comprehensive study of the subject"
+  },
+  {
+    "Id": 62,
+    "ClassName": "Math - Beginner",
+    "StudentCount": 10,
+    "Description": "Practical hands-on learning"
+  },
+  {
+    "Id": 63,
+    "ClassName": "Art - Intermediate",
+    "StudentCount": 10,
+    "Description": "Advanced topics and applications"
+  },
+  {
+    "Id": 64,
+    "ClassName": "English - Advanced",
+    "StudentCount": 10,
+    "Description": "Practical hands-on learning"
+  },
+  {
+    "Id": 65,
+    "ClassName": "English - Beginner",
+    "StudentCount": 11,
+    "Description": "Theoretical foundations"
+  },
+  {
+    "Id": 66,
+    "ClassName": "Art - Beginner",
+    "StudentCount": 25,
+    "Description": "Theoretical foundations"
+  },
+  {
+    "Id": 67,
+    "ClassName": "English - Advanced",
+    "StudentCount": 14,
+    "Description": "Advanced topics and applications"
+  },
+  {
+    "Id": 68,
+    "ClassName": "Music - Beginner",
+    "StudentCount": 23,
+    "Description": "Practical hands-on learning"
+  },
+  {
+    "Id": 69,
+    "ClassName": "Science - Beginner",
+    "StudentCount": 28,
+    "Description": "Practical hands-on learning"
+  },
+  {
+    "Id": 70,
+    "ClassName": "Physical Education - Advanced",
+    "StudentCount": 27,
+    "Description": "Theoretical foundations"
+  },
+  {
+    "Id": 71,
+    "ClassName": "Math - Intermediate",
+    "StudentCount": 25,
+    "Description": "Practical hands-on learning"
+  },
+  {
+    "Id": 72,
+    "ClassName": "Science - Intermediate",
+    "StudentCount": 15,
+    "Description": "Introduction to basic concepts"
+  },
+  {
+    "Id": 73,
+    "ClassName": "Music - Beginner",
+    "StudentCount": 26,
+    "Description": "Advanced topics and applications"
+  },
+  {
+    "Id": 74,
+    "ClassName": "English - Advanced",
+    "StudentCount": 16,
+    "Description": "Comprehensive study of the subject"
+  },
+  {
+    "Id": 75,
+    "ClassName": "Math - Intermediate",
+    "StudentCount": 25,
+    "Description": "Practical hands-on learning"
+  },
+  {
+    "Id": 76,
+    "ClassName": "Art - Beginner",
+    "StudentCount": 10,
+    "Description": "Advanced topics and applications"
+  },
+  {
+    "Id": 77,
+    "ClassName": "History - Advanced",
+    "StudentCount": 18,
+    "Description": "Theoretical foundations"
+  },
+  {
+    "Id": 78,
+    "ClassName": "Math - Advanced",
+    "StudentCount": 16,
+    "Description": "Introduction to basic concepts"
+  },
+  {
+    "Id": 79,
+    "ClassName": "Math - Intermediate",
+    "StudentCount": 29,
+    "Description": "Theoretical foundations"
+  },
+  {
+    "Id": 80,
+    "ClassName": "Art - Beginner",
+    "StudentCount": 13,
+    "Description": "Theoretical foundations"
+  },
+  {
+    "Id": 81,
+    "ClassName": "Math - Beginner",
+    "StudentCount": 15,
+    "Description": "Theoretical foundations"
+  },
+  {
+    "Id": 82,
+    "ClassName": "Math - Intermediate",
+    "StudentCount": 14,
+    "Description": "Practical hands-on learning"
+  },
+  {
+    "Id": 83,
+    "ClassName": "Art - Advanced",
+    "StudentCount": 19,
+    "Description": "Introduction to basic concepts"
+  },
+  {
+    "Id": 84,
+    "ClassName": "Science - Intermediate",
+    "StudentCount": 29,
+    "Description": "Comprehensive study of the subject"
+  },
+  {
+    "Id": 85,
+    "ClassName": "Art - Beginner",
+    "StudentCount": 19,
+    "Description": "Theoretical foundations"
+  },
+  {
+    "Id": 86,
+    "ClassName": "Physical Education - Intermediate",
+    "StudentCount": 15,
+    "Description": "Advanced topics and applications"
+  },
+  {
+    "Id": 87,
+    "ClassName": "Music - Intermediate",
+    "StudentCount": 29,
+    "Description": "Introduction to basic concepts"
+  },
+  {
+    "Id": 88,
+    "ClassName": "Math - Intermediate",
+    "StudentCount": 10,
+    "Description": "Advanced topics and applications"
+  },
+  {
+    "Id": 89,
+    "ClassName": "Music - Intermediate",
+    "StudentCount": 21,
+    "Description": "Practical hands-on learning"
+  },
+  {
+    "Id": 90,
+    "ClassName": "History - Advanced",
+    "StudentCount": 29,
+    "Description": "Advanced topics and applications"
+  },
+  {
+    "Id": 91,
+    "ClassName": "Music - Advanced",
+    "StudentCount": 18,
+    "Description": "Comprehensive study of the subject"
+  },
+  {
+    "Id": 92,
+    "ClassName": "Math - Beginner",
+    "StudentCount": 17,
+    "Description": "Practical hands-on learning"
+  },
+  {
+    "Id": 93,
+    "ClassName": "Music - Beginner",
+    "StudentCount": 15,
+    "Description": "Theoretical foundations"
+  },
+  {
+    "Id": 94,
+    "ClassName": "Art - Advanced",
+    "StudentCount": 23,
+    "Description": "Introduction to basic concepts"
+  },
+  {
+    "Id": 95,
+    "ClassName": "Science - Advanced",
+    "StudentCount": 24,
+    "Description": "Comprehensive study of the subject"
+  },
+  {
+    "Id": 96,
+    "ClassName": "History - Intermediate",
+    "StudentCount": 30,
+    "Description": "Comprehensive study of the subject"
+  },
+  {
+    "Id": 97,
+    "ClassName": "Science - Intermediate",
+    "StudentCount": 14,
+    "Description": "Comprehensive study of the subject"
+  },
+  {
+    "Id": 98,
+    "ClassName": "History - Intermediate",
+    "StudentCount": 20,
+    "Description": "Comprehensive study of the subject"
+  },
+  {
+    "Id": 99,
+    "ClassName": "Science - Beginner",
+    "StudentCount": 26,
+    "Description": "Advanced topics and applications"
+  },
+  {
+    "Id": 100,
+    "ClassName": "Art - Advanced",
+    "StudentCount": 17,
+    "Description": "Advanced topics and applications"
+  }
+]
