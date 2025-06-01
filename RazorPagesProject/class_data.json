@@ -1,0 +1,23 @@
+[
+  {
+    "ClassName": "CENG 382",
+    "Instructor": "Dr. John Doe",
+    "Schedule": "Monday 10:00-12:00",
+    "Room": "A101",
+    "Capacity": 30
+  },
+  {
+    "ClassName": "CENG 384",
+    "Instructor": "Dr. Jane Smith",
+    "Schedule": "Wednesday 14:00-16:00",
+    "Room": "B203",
+    "Capacity": 25
+  },
+  {
+    "ClassName": "CENG 386",
+    "Instructor": "Dr. Mike Johnson",
+    "Schedule": "Friday 09:00-11:00",
+    "Room": "C305",
+    "Capacity": 35
+  }
+]
