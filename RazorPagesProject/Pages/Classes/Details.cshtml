@@ -1,0 +1,25 @@
+@page
+@model RazorPagesProject.Pages.Classes.DetailsModel
+
+<h2>Class Details</h2>
+
+<div>
+    <dl class="row">
+        <dt class="col-sm-2">Name</dt>
+        <dd class="col-sm-10">@Model.Class.Name</dd>
+
+        <dt class="col-sm-2">Person Count</dt>
+        <dd class="col-sm-10">@Model.Class.PersonCount</dd>
+
+        <dt class="col-sm-2">Description</dt>
+        <dd class="col-sm-10">@Model.Class.Description</dd>
+
+        <dt class="col-sm-2">Is Active</dt>
+        <dd class="col-sm-10">@(Model.Class.IsActive ? "Yes" : "No")</dd>
+    </dl>
+</div>
+
+<div>
+    <a asp-page="./Edit" asp-route-id="@Model.Class.Id" class="btn btn-warning">Edit</a>
+    <a asp-page="./Index" class="btn btn-secondary">Back to List</a>
+</div> 

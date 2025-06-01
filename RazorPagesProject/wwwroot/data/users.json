@@ -1,0 +1,9 @@
+[
+  {
+    "Username": "admin",
+    "Password": "admin123",
+    "Role": "Admin",
+    "IsActive": true,
+    "CreatedAt": "2025-05-07T17:19:14.4372899Z"
+  }
+]
